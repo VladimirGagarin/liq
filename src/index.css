@@ -1,0 +1,96 @@
+:root {
+  --bg: #faf9f7;
+  --surface: #ffffff;
+  --ink: #17161b;
+  --ink-soft: #5c5b64;
+  --ink-faint: #93919b;
+  --line: rgba(23, 22, 27, 0.1);
+  --line-strong: rgba(23, 22, 27, 0.2);
+  --accent: hsl(var(--hue, 268) 46% 38%);
+  --accent-soft: hsl(var(--hue, 268) 46% 38% / 0.08);
+
+  --serif: 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman',
+    serif;
+  --sans: ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Inter, Helvetica, Arial,
+    sans-serif;
+
+  color-scheme: light dark;
+  font-family: var(--sans);
+  font-size: 16px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #100f12;
+    --surface: #17161a;
+    --ink: #f1f0ec;
+    --ink-soft: #a3a1a9;
+    --ink-faint: #74727c;
+    --line: rgba(241, 240, 236, 0.11);
+    --line-strong: rgba(241, 240, 236, 0.22);
+    --accent: hsl(var(--hue, 268) 55% 70%);
+    --accent-soft: hsl(var(--hue, 268) 55% 70% / 0.12);
+  }
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+}
+
+#root {
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* The feed owns the viewport so scroll-snap has a fixed page per question. */
+#root:has(.shell-feed) {
+  height: 100dvh;
+  overflow: hidden;
+}
+
+h1,
+h2,
+p,
+ul,
+ol,
+figure {
+  margin: 0;
+}
+
+ul,
+ol {
+  padding: 0;
+  list-style: none;
+}
+
+button {
+  font: inherit;
+  color: inherit;
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+::selection {
+  background: var(--accent-soft);
+}

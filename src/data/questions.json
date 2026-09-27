@@ -1,0 +1,625 @@
+[
+  {
+    "id": "liq-0001",
+    "topic": "philosophy",
+    "topic_tags": ["Identity", "Philosophy", "Neuroscience", "Biology"],
+    "question": "A machine makes an exact copy of you overnight. In the morning you wake up, and so does the copy, and both of you say you are you. Which one of you is telling the truth, and what would you have to do tomorrow to find out?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0002",
+    "topic": "philosophy",
+    "topic_tags": ["Ethics", "Philosophy", "Law", "Probability"],
+    "question": "Two drivers are equally drunk. One kills a pedestrian, one hits nothing at all. Should they be punished equally, and would you agree with your own answer?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0003",
+    "topic": "philosophy",
+    "topic_tags": ["Neuroscience", "Ethics", "Philosophy"],
+    "question": "A scan shows your decision to resign formed three seconds before you knew you had made it. Is the resignation still yours, and does it change what you owe your employer?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0004",
+    "topic": "philosophy",
+    "topic_tags": ["Ethics", "Law", "Philosophy"],
+    "question": "A stranger asks where someone you saw this morning is. You know they intend harm. What do you say, and what have you just learned about the rule you were following?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0005",
+    "topic": "philosophy",
+    "topic_tags": ["Logic", "Philosophy", "Probability", "Statistics"],
+    "question": "Every train you have taken has arrived on time. Tomorrow you will take one again. Write the justification for that bet in a single sentence.",
+    "discussion": []
+  },
+  {
+    "id": "liq-0006",
+    "topic": "philosophy",
+    "topic_tags": ["Identity", "Philosophy", "Logic", "Biology"],
+    "question": "Your barber cuts a little off each visit. After which visit does it stop being your hair, and who gets to decide where the line is?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0007",
+    "topic": "philosophy",
+    "topic_tags": ["Ethics", "Sociology", "Law", "Computer Science"],
+    "question": "An algorithm decides which 200 children get a scholarship. The algorithm is fair on paper, and you are not in the room. What do you owe the 200 children you will never meet?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0008",
+    "topic": "philosophy",
+    "topic_tags": ["Psychology", "Sociology", "Philosophy"],
+    "question": "Your closest friend says nothing to you for a week. You decide they are angry. Name two other explanations that fit the same evidence, and say which one you actually believe.",
+    "discussion": []
+  },
+  {
+    "id": "liq-0081",
+    "topic": "philosophy",
+    "topic_tags": ["Physics", "Biology", "Neuroscience", "Philosophy"],
+    "question": "You are walking through a forest when a tree falls far away, and nobody is there to hear it. If nobody hears the tree fall, did a sound occur, and who is a sound for?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0082",
+    "topic": "philosophy",
+    "topic_tags": ["Ethics", "Psychology", "Neuroscience", "Identity"],
+    "question": "You find a button that saves five strangers, but pressing it permanently erases one cherished memory from your own life. How much of your own life would you sacrifice to save another person's life, and who decides where the limit is?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0083",
+    "topic": "philosophy",
+    "topic_tags": ["Time", "Philosophy", "Neuroscience"],
+    "question": "You receive a message from yourself, dated ten years in the future, telling you what you will do. If future-you already knows, can you still choose differently?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0009",
+    "topic": "science",
+    "topic_tags": ["Probability", "Statistics", "Biology", "Ethics"],
+    "question": "Your company screens 10,000 staff for a condition that affects 1 in 10,000 people. The test is 99% accurate. Your colleague has tested positive. How many of the positive results are real, and what do you say to him?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0010",
+    "topic": "science",
+    "topic_tags": ["Biology", "Statistics", "Probability"],
+    "question": "You buy a supplement for 40 pounds a month. Six weeks later you feel better. What is the only way to find out whether the supplement did it, and would you run that test?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0011",
+    "topic": "science",
+    "topic_tags": ["Biology", "Time", "Neuroscience"],
+    "question": "You go to bed at 1am on Friday and 1pm on Sunday. Monday arrives and you feel jet-lagged without a flight. What is your body expecting, and what is the cheapest fix?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0012",
+    "topic": "science",
+    "topic_tags": ["Psychology", "Neuroscience", "Biology", "Linguistics"],
+    "question": "You remember a conversation with your brother from 12 years ago word for word. What would change your mind that this is a memory rather than a good guess?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0013",
+    "topic": "science",
+    "topic_tags": ["Psychology", "Statistics", "Sociology", "Ethics"],
+    "question": "Your child's school starts sending you a weekly mood score. The scores climb. Did the child get better, or did being watched do it?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0014",
+    "topic": "science",
+    "topic_tags": ["Biology", "Statistics", "Physics"],
+    "question": "Everyone advises 30 minutes of exercise a day. You run 20 marathons a year and feel worse than the man who walks. What should you conclude about the advice?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0015",
+    "topic": "science",
+    "topic_tags": ["Statistics", "Biology", "Psychology"],
+    "question": "You cut out bread and feel better. Your friend cut out bread and felt nothing. Whose result do you trust, and what would have to be true for both of you to be right?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0016",
+    "topic": "science",
+    "topic_tags": ["Biology", "Chemistry", "Time"],
+    "question": "You take a medicine, you feel fine, so you stop. What is the actual curve doing in your body for the next three weeks?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0084",
+    "topic": "science",
+    "topic_tags": ["Probability", "Statistics", "Psychology"],
+    "question": "You meet someone who tells you they have two children and that one of them is a boy. What should you actually believe about the other child, and how would you test your own answer?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0085",
+    "topic": "science",
+    "topic_tags": ["Psychology", "Statistics", "Probability"],
+    "question": "A shop sells bread for a pound and everybody buys it. The price goes up ten percent, and people still buy it. At what point does a price become too expensive, and how would you know you had passed it?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0086",
+    "topic": "science",
+    "topic_tags": ["Biology", "Philosophy", "Identity", "Neuroscience"],
+    "question": "You replace one part of your body at a time with an artificial replacement. How much of you can be replaced before you are no longer you, and who gets to make that call?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0017",
+    "topic": "religion",
+    "topic_tags": ["Probability", "Philosophy", "Ethics"],
+    "question": "A stranger offers you a bet. Put 1 pound on whether you will live a good life. If you are right you win a million. If you are wrong you lose the pound. Do you take it, and what does your answer reveal about what you already believe?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0018",
+    "topic": "religion",
+    "topic_tags": ["Statistics", "Philosophy", "Biology", "Ethics"],
+    "question": "A prayer for the sick works for everyone except the people who prayed. Do you keep praying, and who do you tell first?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0019",
+    "topic": "religion",
+    "topic_tags": ["Philosophy", "Ethics", "Sociology", "Probability"],
+    "question": "A good person loses a child. In the same week a bad person wins the lottery. What is the most honest sentence you could say to the first person?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0020",
+    "topic": "religion",
+    "topic_tags": ["Philosophy", "Psychology", "Sociology"],
+    "question": "You no longer believe the prayer works, but you keep doing it, because it does something to you. What are you actually believing now?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0021",
+    "topic": "religion",
+    "topic_tags": ["Philosophy", "Sociology", "Ethics"],
+    "question": "Three traditions disagree completely about what happens after death, and agree completely about how to treat a stranger. Which agreement do you trust when the two conflict?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0022",
+    "topic": "religion",
+    "topic_tags": ["Ethics", "Philosophy", "Probability"],
+    "question": "You did nothing to deserve the life you have. Does unearned good trouble you more than unearned suffering, and why?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0023",
+    "topic": "religion",
+    "topic_tags": ["Statistics", "Philosophy", "Ethics"],
+    "question": "You give something up every week out of ritual. Nothing good ever happens as a result. Is the practice worthless, or only unproven?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0024",
+    "topic": "religion",
+    "topic_tags": ["Ethics", "Philosophy", "Psychology"],
+    "question": "A belief you cannot prove makes you kinder. If you discovered it made you worse, would you drop it, and does its usefulness count as evidence?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0025",
+    "topic": "mathematics",
+    "topic_tags": ["Probability", "Game Theory", "Statistics", "Mathematics"],
+    "question": "A game doubles your money half the time and takes all of it the other half. How many times can you play before you are almost certainly broke?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0026",
+    "topic": "mathematics",
+    "topic_tags": ["Mathematics", "Statistics", "Time"],
+    "question": "You can save 10 pounds a day for 30 years, or 20 pounds a day for 15. At 6% a year, which one wins, and roughly by how much?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0027",
+    "topic": "mathematics",
+    "topic_tags": ["Statistics", "Probability", "Mathematics"],
+    "question": "Team A wins 3 of its 4 games. Team B wins 9 of its 12. Who is the better team, and what would you need to know to be sure?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0028",
+    "topic": "mathematics",
+    "topic_tags": ["Statistics", "Probability", "Biology", "Psychology"],
+    "question": "Your child is called difficult at school. A bad month, then a calm one. Is the calmness a treatment, an ordinary month, or arithmetic?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0029",
+    "topic": "mathematics",
+    "topic_tags": ["Probability", "Statistics", "Mathematics", "Game Theory"],
+    "question": "You find a bet that triples your money one time in ten. What fraction of your savings belongs in it, and how would you defend that number to the person you love?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0030",
+    "topic": "mathematics",
+    "topic_tags": ["Statistics", "Sociology", "Mathematics"],
+    "question": "Your manager announces that the average salary here is 52,000. What single number would you ask for instead, and what is the difference between the two?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0031",
+    "topic": "mathematics",
+    "topic_tags": ["Statistics", "Psychology", "Mathematics"],
+    "question": "You told everyone the move would take four weeks. Everybody says the same thing about their move. What number should you have put in the plan?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0032",
+    "topic": "mathematics",
+    "topic_tags": ["Probability", "Game Theory", "Statistics"],
+    "question": "You have hit four winners in a row. Do you stake more on the fifth or less, and what is the honest reason?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0087",
+    "topic": "mathematics",
+    "topic_tags": ["Geometry", "Mathematics"],
+    "question": "You invite several friends into a perfectly round room, and everyone has to stand the same distance from everyone else. How many people can stand there, and can you prove your number is the best possible?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0088",
+    "topic": "mathematics",
+    "topic_tags": ["Geometry", "Mathematics", "Logic"],
+    "question": "Four friends stand at the four corners of a square, and each one walks directly toward the friend on their left. Where will they meet, and how do you know?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0033",
+    "topic": "art",
+    "topic_tags": ["Aesthetics", "Sociology", "Philosophy"],
+    "question": "A dead painter's canvas sells for 90 million. Your late mother's small painting sells for 200. Which one is better, and what exactly is being priced in the first?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0034",
+    "topic": "art",
+    "topic_tags": ["Aesthetics", "Law", "Statistics"],
+    "question": "A painting passes every scientific test, and two experts say it is a fake. You have to choose. Whose answer carries more information, and why?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0035",
+    "topic": "art",
+    "topic_tags": ["Aesthetics", "Psychology", "Linguistics"],
+    "question": "The same novel reads as hopeful to you and bleak to your friend. Does one of you have it wrong, or is something else going on?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0036",
+    "topic": "art",
+    "topic_tags": ["Aesthetics", "Sociology", "Biology"],
+    "question": "Your taste is partly what you saw before you were twelve and partly what your city could afford. What would you have liked if you had grown up two hundred miles away?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0037",
+    "topic": "art",
+    "topic_tags": ["Aesthetics", "Law", "Ethics"],
+    "question": "You learned your craft by copying someone for years, and now they accuse you of stealing it. Where is the line, and does it matter that you were always going to change it?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0038",
+    "topic": "art",
+    "topic_tags": ["Aesthetics", "Philosophy", "Linguistics"],
+    "question": "A building nobody visits is called unfinished. A song nobody sings is called a failure. Is finished the same word in both cases?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0039",
+    "topic": "art",
+    "topic_tags": ["Aesthetics", "Psychology", "Philosophy"],
+    "question": "You have walked past the same tree every morning for three years. Is that a failure of attention, or a kind of relationship?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0040",
+    "topic": "art",
+    "topic_tags": ["Aesthetics", "Psychology", "Time"],
+    "question": "You have four hours free. Make something nobody will ever see, or spend it seeing something made by someone else. What does each one actually give you?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0041",
+    "topic": "psychology",
+    "topic_tags": ["Psychology", "Sociology"],
+    "question": "You get a bad haircut. How many people in the room noticed, and how do you know the number?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0042",
+    "topic": "psychology",
+    "topic_tags": ["Psychology", "Sociology", "Ethics"],
+    "question": "Your friend cancels on you and you decide they are selfish. Name two other explanations that fit the same evidence, and say which one you would actually bet on.",
+    "discussion": []
+  },
+  {
+    "id": "liq-0043",
+    "topic": "psychology",
+    "topic_tags": ["Psychology", "Statistics", "Sociology"],
+    "question": "The most confident person in the room is usually the least able. What is the cheapest way to find out who is right within ten minutes?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0044",
+    "topic": "psychology",
+    "topic_tags": ["Psychology", "Neuroscience", "Time"],
+    "question": "A trip ends with one bad last evening. Which trip do you remember better, and what would you change next time?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0045",
+    "topic": "psychology",
+    "topic_tags": ["Psychology", "Neuroscience"],
+    "question": "Unfinished tasks stay in your head longer than finished ones. What does that predict about the three things you keep not doing?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0046",
+    "topic": "psychology",
+    "topic_tags": ["Psychology", "Sociology", "Mathematics"],
+    "question": "Five people carry a sofa. Ten people each take one end of a box. Which job goes faster, and what is the group actually measuring?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0047",
+    "topic": "psychology",
+    "topic_tags": ["Psychology", "Statistics", "Neuroscience"],
+    "question": "There are 47 kinds of yoghurt. You buy one, and you check your bank number twice. What just happened to the quality of your decisions?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0048",
+    "topic": "psychology",
+    "topic_tags": ["Psychology", "Statistics", "Philosophy"],
+    "question": "A project failed and everyone now says it was obvious. When did they know, and what is your evidence for believing them?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0089",
+    "topic": "psychology",
+    "topic_tags": ["Psychology", "Neuroscience", "Biology"],
+    "question": "You lose your phone and spend an hour searching for it. The moment you find it, you remember exactly where you left it. Did you forget where it was, or did your mind simply stop being able to reach the memory?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0049",
+    "topic": "history",
+    "topic_tags": ["Sociology", "Law", "Philosophy"],
+    "question": "Your grandfather walled off the yard. He died years ago, nobody remembers why. Do you keep it?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0050",
+    "topic": "history",
+    "topic_tags": ["Sociology", "Law", "Time"],
+    "question": "The bus route does not go where most people want because the road was laid 200 years ago for a market that no longer exists. Who is paying for the history?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0051",
+    "topic": "history",
+    "topic_tags": ["Sociology", "Time", "Philosophy"],
+    "question": "The railways invented the clock that says 4pm is the same everywhere. Which parts of your day are genuinely local, and which were invented by a timetable?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0052",
+    "topic": "history",
+    "topic_tags": ["Sociology", "Aesthetics", "Linguistics"],
+    "question": "A family photograph has been cropped by three generations. What did the person who cut it want you to see?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0053",
+    "topic": "history",
+    "topic_tags": ["Sociology", "Linguistics", "Philosophy"],
+    "question": "A custom feels natural to you only because nobody alive remembers it being otherwise. Which parts of your week are natural for that reason?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0054",
+    "topic": "history",
+    "topic_tags": ["Sociology", "Law", "Computer Science"],
+    "question": "Everyone follows a procedure that was designed for a machine taken out of service in 1994. What is the procedure costing now, and who benefits from keeping it?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0055",
+    "topic": "history",
+    "topic_tags": ["Ethics", "Sociology", "Law"],
+    "question": "You inherited money you did not earn. Does it change how much you spend, and would you defend that change to someone on twelve thousand a year?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0056",
+    "topic": "history",
+    "topic_tags": ["Sociology", "Philosophy", "Linguistics"],
+    "question": "If your generation is remembered by one word, which word are you actually writing, in what you repair and what you leave?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0057",
+    "topic": "love",
+    "topic_tags": ["Psychology", "Sociology", "Ethics"],
+    "question": "A stranger gives you a small gift before asking you for a favour. What changed in your answer, and what is that change called?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0058",
+    "topic": "love",
+    "topic_tags": ["Psychology", "Sociology"],
+    "question": "When your partner is busy, one of you feels abandoned and the other feels secure. What is each of you reading into the same silence?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0059",
+    "topic": "love",
+    "topic_tags": ["Psychology", "Game Theory", "Ethics"],
+    "question": "One of you enjoys the chase, the other enjoys having arrived. How do you raise it without it turning into a score?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0060",
+    "topic": "love",
+    "topic_tags": ["Psychology", "Ethics", "Time"],
+    "question": "You learned something about your partner three days ago and have not said it. Name the two things you gain by waiting. Are they worth the third thing you lose?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0061",
+    "topic": "love",
+    "topic_tags": ["Sociology", "Ethics", "Psychology"],
+    "question": "One of you earns more, the other does more of the house. Both of you call the arrangement fine. What does fine usually mean here?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0062",
+    "topic": "love",
+    "topic_tags": ["Psychology", "Ethics", "Philosophy"],
+    "question": "Is there a point where a marriage is genuinely repaired, or is that just a longer road to the same ending? How would you tell the difference?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0063",
+    "topic": "love",
+    "topic_tags": ["Psychology", "Ethics", "Time"],
+    "question": "You have been together eight hours today and looked at each other for two. What would you do with two more hours of eye contact?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0064",
+    "topic": "love",
+    "topic_tags": ["Psychology", "Sociology"],
+    "question": "A friend says you have changed. Do you ask what changed, or do you agree? What does your instinct tell you about that friendship?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0065",
+    "topic": "work",
+    "topic_tags": ["Sociology", "Game Theory", "Statistics", "Ethics"],
+    "question": "You pay your team per ticket closed. Within a year the tickets got smaller and the complaints got bigger. What changed, and what would you measure instead?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0066",
+    "topic": "work",
+    "topic_tags": ["Sociology", "Psychology", "Mathematics"],
+    "question": "Your company measures productivity by how full the calendar is. Everyone is in nine meetings a day. How much of the work got harder, and how much just got louder?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0067",
+    "topic": "work",
+    "topic_tags": ["Sociology", "Law", "Psychology", "Ethics"],
+    "question": "A firm offers you ten percent more and says the number is confidential. Does the confidentiality tell you anything, and what would you test?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0068",
+    "topic": "work",
+    "topic_tags": ["Mathematics", "Ethics", "Time"],
+    "question": "You have one free Saturday left this month: a course, a hospital visit, or sleep. Which is the most expensive, and how did you work that out?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0069",
+    "topic": "work",
+    "topic_tags": ["Mathematics", "Biology", "Psychology"],
+    "question": "You work sixty hours and produce less than you did at forty. What arithmetic is your calendar hiding?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0070",
+    "topic": "work",
+    "topic_tags": ["Psychology", "Mathematics", "Ethics"],
+    "question": "You have given three years and thirty thousand pounds to something you will never finish. Write the argument for quitting in one sentence. Now write the argument for staying.",
+    "discussion": []
+  },
+  {
+    "id": "liq-0071",
+    "topic": "work",
+    "topic_tags": ["Statistics", "Sociology", "Time"],
+    "question": "A specialist skill pays triple and is worthless if the field disappears. How much of your working life should be rented rather than owned?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0072",
+    "topic": "work",
+    "topic_tags": ["Sociology", "Ethics", "Psychology"],
+    "question": "If nobody could ever find out what you earn, would you still do this job? Now suppose everybody could. Does either answer change what you do on Monday?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0073",
+    "topic": "technology",
+    "topic_tags": ["Computer Science", "Psychology", "Sociology"],
+    "question": "You installed an app to sleep better. Within a week it reports your mood, your steps and your screen time. At what point did it start running your life?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0074",
+    "topic": "technology",
+    "topic_tags": ["Computer Science", "Psychology", "Information Theory"],
+    "question": "You get sixty interruptions a day and answer forty. How many of those actually needed you to be there?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0075",
+    "topic": "technology",
+    "topic_tags": ["Information Theory", "Computer Science", "Psychology"],
+    "question": "Your feed got good at showing you what you like. What is the cost of never being surprised by it?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0076",
+    "topic": "technology",
+    "topic_tags": ["Information Theory", "Sociology", "Psychology"],
+    "question": "Your music app says forty thousand people have it on their list. Does the number change the song?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0077",
+    "topic": "technology",
+    "topic_tags": ["Sociology", "Computer Science", "Information Theory"],
+    "question": "Everyone in your group chat moved to another app on the same day. What was good about it on Monday that was not true on Sunday?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0078",
+    "topic": "technology",
+    "topic_tags": ["Psychology", "Biology", "Statistics"],
+    "question": "The thing you track is the thing that gets worse the moment you stop tracking it. What is your tracker actually measuring?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0079",
+    "topic": "technology",
+    "topic_tags": ["Computer Science", "Information Theory", "Philosophy"],
+    "question": "Your phone remembers everything for you now. Which part of your day takes more effort than it used to?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0080",
+    "topic": "technology",
+    "topic_tags": ["Computer Science", "Ethics", "Philosophy"],
+    "question": "Every tool you own becomes ten times better next year. Which of your problems would still be hard, and which part of those problems is not technology at all?",
+    "discussion": []
+  }
+]
