@@ -1,6 +1,6 @@
 import { mkdirSync, readFileSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
-import { absolute, questionPath } from './src/site.config.js'
+import { ORIGIN, absolute, questionPath } from './src/site.config.js'
 import {
   OG_IMAGE,
   SITE_TITLE,
@@ -129,7 +129,8 @@ export function prerender() {
       writeFileSync(
         join(root, 'index.html'),
         applyMeta(template, {
-          meta: { ...siteMeta(homeUrl), type: 'website' },
+          // ORIGIN, not homeUrl: siteMeta adds the base path itself, and homeUrl has it already.
+          meta: { ...siteMeta(ORIGIN), type: 'website' },
           jsonLd: siteJsonLd(homeUrl),
           noscript: noscriptBlock({
             scope: 'L\\IQ · Life and its questions',

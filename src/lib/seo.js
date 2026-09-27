@@ -1,6 +1,6 @@
 import { childrenOf, parentIdOf } from '../data/legacy.js'
 import { getChildName, getParentName } from '../data/tree.js'
-import { questionPath } from '../site.config.js'
+import { questionPath, withBase } from '../site.config.js'
 
 export const SITE_NAME = 'L\\IQ'
 export const SITE_TITLE = 'L\\IQ · Life and its questions'
@@ -14,8 +14,11 @@ function clip(text, max) {
   return text.length > max ? `${text.slice(0, max - 1).trimEnd()}…` : text
 }
 
+// These take a bare origin — no base path — because withBase adds it. The prerenderer
+// passes ORIGIN, the running app passes window.location.origin, and both land on the
+// same absolute URL that the prerendered tags already carry.
 export function siteMeta(origin) {
-  return { title: SITE_TITLE, description: SITE_DESCRIPTION, url: `${origin}/` }
+  return { title: SITE_TITLE, description: SITE_DESCRIPTION, url: `${origin}${withBase('/')}` }
 }
 
 export function questionMeta(question, canonical) {
@@ -31,7 +34,7 @@ export function questionMeta(question, canonical) {
 }
 
 export function canonicalFor(question, origin) {
-  return question ? `${origin}${questionPath(question.id)}` : `${origin}/`
+  return `${origin}${withBase(question ? questionPath(question.id) : '/')}`
 }
 
 export function siteJsonLd(url) {
@@ -97,7 +100,7 @@ function setStructuredData(data) {
 export function applyPageMeta(question) {
   const origin = window.location.origin
   const canonical = canonicalFor(question, origin)
-  const image = `${origin}${OG_IMAGE}`
+  const image = `${origin}${withBase(OG_IMAGE)}`
   const isQuestion = Boolean(question)
   const { title, description } = isQuestion ? questionMeta(question, canonical) : siteMeta(origin)
 

@@ -1,11 +1,12 @@
 {
-  "name": "questions",
+  "name": "liq",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "check:base": "node scripts/check-base.mjs",
     "lint": "eslint .",
     "preview": "vite preview"
   },

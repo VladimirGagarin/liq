@@ -1,0 +1,56 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# The Pages deployment needs an OIDC token to prove it is this workflow, and write
+# access to publish. Nothing else, so drop the default read/write on contents.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# One deployment at a time. A second push while a deploy is running cancels the
+# first, so the site never ends up half way between two commits.
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      # The base path is the thing that silently breaks a subpath deploy, so it is
+      # checked before the build rather than discovered on a live 404.
+      - run: npm run check:base
+
+      - run: npm run lint
+
+      - run: npm run build
+
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: dist
+          # v4 and later drop dotfiles by default, which would take .nojekyll with them.
+          include-hidden-files: 'true'
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5
