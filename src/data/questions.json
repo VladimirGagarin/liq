@@ -3202,5 +3202,500 @@
     ],
     "question": "One person remembers an event vividly, while another has photographs proving it happened differently. Which account deserves trust?",
     "discussion": []
+  },
+  {
+    "id": "liq-0291",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Philosophy",
+      "Law"
+    ],
+    "question": "You find a wallet containing enough money to solve a serious problem in your own life. The owner's address is inside, but returning it would leave you struggling. What should matter more: your need or the owner's right to their property?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0292",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Philosophy",
+      "Sociology"
+    ],
+    "question": "Your friend asks you to keep a secret that you know will seriously hurt another person if it remains hidden. Does loyalty require you to keep the secret?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0293",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Law",
+      "Sociology"
+    ],
+    "question": "You see someone stealing food from a supermarket. You know they have children at home and probably cannot afford to feed them. Is reporting the theft still the right thing to do?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0294",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Philosophy",
+      "Psychology"
+    ],
+    "question": "You accidentally receive too much change from a shopkeeper who does not notice. You are certain the mistake will not be discovered. Does keeping it become wrong simply because you know it was not yours?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0295",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Law",
+      "Philosophy"
+    ],
+    "question": "A doctor can save one person's life with an organ that could save several other people if divided differently. Should the number of lives saved determine what happens?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0296",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Philosophy",
+      "Sociology"
+    ],
+    "question": "You promise your dying friend that you will never reveal their greatest secret. Years later, revealing it could prevent someone else from making a terrible mistake. Does a promise remain sacred when circumstances change?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0297",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Sociology",
+      "Law"
+    ],
+    "question": "Your employer asks you to remain silent about a harmful practice that keeps hundreds of people employed. Speaking up could expose the problem but cause many people to lose their jobs. Is silence sometimes the more responsible choice?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0298",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Psychology",
+      "Sociology"
+    ],
+    "question": "A child lies to protect a parent from punishment. The lie is discovered. Should the child be judged by the lie or by the reason for telling it?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0299",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Philosophy",
+      "Psychology"
+    ],
+    "question": "You can save either your closest friend or five strangers from an accident, but you cannot save everyone. Does love give you a moral reason to choose your friend?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0300",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Philosophy",
+      "Sociology"
+    ],
+    "question": "Someone who once treated you cruelly later needs your help to survive. You have the ability to help without putting yourself in danger. Do you owe anything to someone who gave you no kindness?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0301",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Sociology",
+      "Philosophy"
+    ],
+    "question": "You discover that a respected charity spends a large amount of donated money on administration but also saves thousands of lives. Is it wrong to criticize how the money is spent if the charity is still doing good?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0302",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Psychology",
+      "Art / Aesthetics"
+    ],
+    "question": "A friend asks whether you like their terrible painting. You know they are proud of it and have worked on it for months. Is telling the truth more important than protecting their feelings?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0303",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Sociology",
+      "Law"
+    ],
+    "question": "You are given a job because the person hiring you is your relative, even though another candidate is slightly more qualified. Nobody else knows. Have you done something wrong by accepting the opportunity?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0304",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Law",
+      "Sociology"
+    ],
+    "question": "You witness your friend cheating on an exam. Reporting them could ruin an important opportunity they desperately need. Is protecting a friend ever a good reason to allow unfairness?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0305",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Sociology",
+      "Psychology"
+    ],
+    "question": "A wealthy person gives away a large amount of money publicly and receives praise for being generous. A poor person quietly gives away their only meal. Does the sacrifice matter more than the size of the gift?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0306",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Sociology",
+      "Psychology"
+    ],
+    "question": "You make a mistake at work that nobody notices. Fixing it will cost your employer money, but remaining silent will probably save you from embarrassment. What makes confession the right thing to do?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0307",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Psychology",
+      "Sociology"
+    ],
+    "question": "Your friend tells you they are about to make a decision that will probably ruin their life. You have strong evidence that they are wrong, but they refuse to listen. How far should you go in trying to stop them?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0308",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Law",
+      "Philosophy"
+    ],
+    "question": "You can prevent a disaster by breaking a law that was created to protect people. Does breaking a bad law become a good act when the result is good?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0309",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Sociology",
+      "Linguistics"
+    ],
+    "question": "You discover that your country's history books have deliberately hidden something terrible that happened in the past. Teaching the truth may create anger between communities. Is truth still worth revealing when it may cause division?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0310",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Law",
+      "Sociology"
+    ],
+    "question": "A person steals medicine because their child is seriously ill and they cannot afford it. Should the law treat their action differently from someone who steals for personal gain?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0311",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Philosophy",
+      "Sociology"
+    ],
+    "question": "You promised to help a friend move house, but on the same day another person desperately needs your help. You cannot do both. Which promise should matter more?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0312",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Sociology",
+      "Family"
+    ],
+    "question": "Your parents sacrificed almost everything to give you a better life. Years later, they expect you to give up your own dreams to care for them. Does gratitude create an obligation?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0313",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Sociology",
+      "Philosophy"
+    ],
+    "question": "You can give money to one person who needs it badly, or divide the same money among ten people who each need a little. Is helping one person completely better than helping many people partially?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0314",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Law",
+      "Sociology"
+    ],
+    "question": "A friend asks you to lie about their whereabouts because they are hiding from an abusive partner. Is lying wrong when it protects someone from harm?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0315",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Law",
+      "Sociology"
+    ],
+    "question": "You discover that a person who has been publicly accused of wrongdoing is innocent, but proving their innocence would expose a private secret that could destroy their family. Should the truth be revealed?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0316",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Psychology",
+      "Sociology"
+    ],
+    "question": "Someone insults you in public without knowing that you are already having a terrible day. You have the opportunity to embarrass them in return. Would refusing revenge be kindness, weakness, or simply self-control?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0317",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Law",
+      "Sociology"
+    ],
+    "question": "You discover that your best friend has been stealing small amounts of money from work for years. Reporting them could destroy their family. Does friendship require protecting them from the consequences?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0318",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Philosophy",
+      "Psychology"
+    ],
+    "question": "You can tell a painful truth now or a comforting lie that will allow someone to enjoy one final peaceful day. Is there ever a morally good reason to delay the truth?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0319",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Psychology",
+      "Philosophy"
+    ],
+    "question": "A person refuses to forgive someone who sincerely apologizes for a terrible act. Is forgiveness something we owe to people who regret what they have done?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0320",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Sociology",
+      "Philosophy"
+    ],
+    "question": "You see a homeless person sleeping outside a building where expensive decorations are being prepared for a celebration. The event will bring joy to hundreds of people. Should the organizers be morally responsible for the person outside?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0321",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Law",
+      "Sociology"
+    ],
+    "question": "A government introduces a rule that makes life safer for most people but significantly restricts the freedom of a small minority. When, if ever, is sacrificing some freedom for collective safety justified?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0322",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Philosophy",
+      "Sociology"
+    ],
+    "question": "You learn that a close friend has been secretly helping a person who once harmed you. They believe they are doing the right thing. Should you judge your friend by their intentions or by the consequences of their actions?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0323",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Law",
+      "Sociology"
+    ],
+    "question": "A person tells you they regret something terrible they did but refuses to tell anyone else because they fear losing everything. Is private remorse enough, or does wrongdoing require public accountability?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0324",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Law",
+      "Sociology"
+    ],
+    "question": "You could expose corruption in an organization, but doing so would also reveal innocent people who trusted you with private information. How much collateral harm is acceptable when pursuing justice?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0325",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Sociology",
+      "Family"
+    ],
+    "question": "Your family expects you to support a tradition that you believe is unfair to another group of people. Refusing would hurt your family's feelings. Which deserves greater loyalty: family or principle?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0326",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Sociology",
+      "Psychology"
+    ],
+    "question": "You are given credit for an idea that was actually created by someone who does not know you received the praise. Nobody would ever discover the truth. Does the recognition still belong to you?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0327",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Philosophy",
+      "Sociology"
+    ],
+    "question": "A person saves another person's life but later demands something unreasonable in return. Does saving someone's life create a debt that can never truly be repaid?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0328",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Psychology",
+      "Sociology"
+    ],
+    "question": "You discover that a close friend has committed a serious wrong but genuinely believes they did nothing wrong. Is ignorance an excuse for immoral behaviour?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0329",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Law",
+      "Logic"
+    ],
+    "question": "A rule exists to treat everyone equally, but following it in one particular case would produce an obviously unfair result. Should rules always be followed equally?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0330",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Philosophy",
+      "Logic"
+    ],
+    "question": "You can prevent one person from suffering greatly by causing a small amount of suffering to another person who has done nothing wrong. Is causing innocent harm ever justified by a greater good?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0331",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Sociology",
+      "Family"
+    ],
+    "question": "A person refuses to help strangers because they believe they should first take care of themselves and their family. Another person gives almost everything away to people in need. Which responsibility comes first: helping others or protecting your own?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0332",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Philosophy",
+      "Sociology"
+    ],
+    "question": "You discover that someone you dislike has done something genuinely admirable. Nobody else knows about it. Do you have a moral responsibility to give them credit?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0333",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Psychology",
+      "Philosophy"
+    ],
+    "question": "A friend asks you for honest advice, but you know the truth may destroy their confidence and change their life. If they did not ask, you would stay silent. Does asking for honesty create a duty to give it?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0334",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Neuroscience",
+      "Philosophy"
+    ],
+    "question": "You have the power to erase one person's worst memory without their permission. The memory causes them great suffering, but it is also part of their identity. Would helping them without their consent be an act of kindness or a violation?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0335",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Ethics",
+      "Philosophy",
+      "Psychology"
+    ],
+    "question": "At the end of your life, you discover that many of the good things you did were motivated partly by fear, pride, or the desire to be admired. Does the motive behind a good action change the moral value of what you actually did?",
+    "discussion": []
   }
 ]

@@ -131,7 +131,7 @@ Then `npm run build` and serve `dist/` from any static host.
 
 ## Status
 
-290 questions written and filed. 212 of them sit under **Mind & Human Nature**, which is where the
-bulk of the bank lives — the subtopics there are deep, the other eleven topics are still thin and
-want the same treatment. The `discussion` arrays are seeded but empty — posting needs a server, so
-the overlay currently says so honestly rather than pretending.
+335 questions written and filed. 257 of them sit under **Mind & Human Nature** — 139 tagged Ethics,
+which is now the deepest subtopic after Philosophy. The other eleven main topics are still thin at
+8–11 each and want the same treatment. The `discussion` arrays are seeded but empty — posting needs
+a server, so the overlay currently says so honestly rather than pretending.
