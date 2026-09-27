@@ -102,7 +102,7 @@ Append to `src/data/questions.json`:
 
 ```json
 {
-  "id": "liq-0090",
+  "id": "liq-0291",
   "topic": "science",
   "topic_tags": ["Thermodynamics", "Physics"],
   "question": "The situation, stated plainly, ending in something you cannot unsee.",
@@ -110,8 +110,10 @@ Append to `src/data/questions.json`:
 }
 ```
 
-Then run `npm run build`. The dev server validates the bank on boot and warns about unknown topics,
-missing subtopics, missing discussions and duplicate ids, so mistakes surface immediately.
+`topic` picks the main topic and `topic_tags` picks the subtopics, so one question can appear under
+several of them. Then run `npm run build`. The dev server validates the bank on boot and warns about
+unknown topics, missing subtopics, missing discussions and duplicate ids, so mistakes surface
+immediately.
 
 The `topic` / `topic_tags` shape is legacy. Once every question is rewritten with the tree's
 `parent` + `children`, `src/data/legacy.js` can be deleted.
@@ -129,5 +131,7 @@ Then `npm run build` and serve `dist/` from any static host.
 
 ## Status
 
-89 questions written and filed. The `discussion` arrays are seeded but empty — posting needs a
-server, so the overlay currently says so honestly rather than pretending.
+290 questions written and filed. 212 of them sit under **Mind & Human Nature**, which is where the
+bulk of the bank lives — the subtopics there are deep, the other eleven topics are still thin and
+want the same treatment. The `discussion` arrays are seeded but empty — posting needs a server, so
+the overlay currently says so honestly rather than pretending.

@@ -2,624 +2,3205 @@
   {
     "id": "liq-0001",
     "topic": "philosophy",
-    "topic_tags": ["Identity", "Philosophy", "Neuroscience", "Biology"],
+    "topic_tags": [
+      "Identity",
+      "Philosophy",
+      "Neuroscience",
+      "Biology"
+    ],
     "question": "A machine makes an exact copy of you overnight. In the morning you wake up, and so does the copy, and both of you say you are you. Which one of you is telling the truth, and what would you have to do tomorrow to find out?",
     "discussion": []
   },
   {
     "id": "liq-0002",
     "topic": "philosophy",
-    "topic_tags": ["Ethics", "Philosophy", "Law", "Probability"],
+    "topic_tags": [
+      "Ethics",
+      "Philosophy",
+      "Law",
+      "Probability"
+    ],
     "question": "Two drivers are equally drunk. One kills a pedestrian, one hits nothing at all. Should they be punished equally, and would you agree with your own answer?",
     "discussion": []
   },
   {
     "id": "liq-0003",
     "topic": "philosophy",
-    "topic_tags": ["Neuroscience", "Ethics", "Philosophy"],
+    "topic_tags": [
+      "Neuroscience",
+      "Ethics",
+      "Philosophy"
+    ],
     "question": "A scan shows your decision to resign formed three seconds before you knew you had made it. Is the resignation still yours, and does it change what you owe your employer?",
     "discussion": []
   },
   {
     "id": "liq-0004",
     "topic": "philosophy",
-    "topic_tags": ["Ethics", "Law", "Philosophy"],
+    "topic_tags": [
+      "Ethics",
+      "Law",
+      "Philosophy"
+    ],
     "question": "A stranger asks where someone you saw this morning is. You know they intend harm. What do you say, and what have you just learned about the rule you were following?",
     "discussion": []
   },
   {
     "id": "liq-0005",
     "topic": "philosophy",
-    "topic_tags": ["Logic", "Philosophy", "Probability", "Statistics"],
+    "topic_tags": [
+      "Logic",
+      "Philosophy",
+      "Probability",
+      "Statistics"
+    ],
     "question": "Every train you have taken has arrived on time. Tomorrow you will take one again. Write the justification for that bet in a single sentence.",
     "discussion": []
   },
   {
     "id": "liq-0006",
     "topic": "philosophy",
-    "topic_tags": ["Identity", "Philosophy", "Logic", "Biology"],
+    "topic_tags": [
+      "Identity",
+      "Philosophy",
+      "Logic",
+      "Biology"
+    ],
     "question": "Your barber cuts a little off each visit. After which visit does it stop being your hair, and who gets to decide where the line is?",
     "discussion": []
   },
   {
     "id": "liq-0007",
     "topic": "philosophy",
-    "topic_tags": ["Ethics", "Sociology", "Law", "Computer Science"],
+    "topic_tags": [
+      "Ethics",
+      "Sociology",
+      "Law",
+      "Computer Science"
+    ],
     "question": "An algorithm decides which 200 children get a scholarship. The algorithm is fair on paper, and you are not in the room. What do you owe the 200 children you will never meet?",
     "discussion": []
   },
   {
     "id": "liq-0008",
     "topic": "philosophy",
-    "topic_tags": ["Psychology", "Sociology", "Philosophy"],
+    "topic_tags": [
+      "Psychology",
+      "Sociology",
+      "Philosophy"
+    ],
     "question": "Your closest friend says nothing to you for a week. You decide they are angry. Name two other explanations that fit the same evidence, and say which one you actually believe.",
     "discussion": []
   },
   {
     "id": "liq-0081",
     "topic": "philosophy",
-    "topic_tags": ["Physics", "Biology", "Neuroscience", "Philosophy"],
+    "topic_tags": [
+      "Physics",
+      "Biology",
+      "Neuroscience",
+      "Philosophy"
+    ],
     "question": "You are walking through a forest when a tree falls far away, and nobody is there to hear it. If nobody hears the tree fall, did a sound occur, and who is a sound for?",
     "discussion": []
   },
   {
     "id": "liq-0082",
     "topic": "philosophy",
-    "topic_tags": ["Ethics", "Psychology", "Neuroscience", "Identity"],
+    "topic_tags": [
+      "Ethics",
+      "Psychology",
+      "Neuroscience",
+      "Identity"
+    ],
     "question": "You find a button that saves five strangers, but pressing it permanently erases one cherished memory from your own life. How much of your own life would you sacrifice to save another person's life, and who decides where the limit is?",
     "discussion": []
   },
   {
     "id": "liq-0083",
     "topic": "philosophy",
-    "topic_tags": ["Time", "Philosophy", "Neuroscience"],
+    "topic_tags": [
+      "Time",
+      "Philosophy",
+      "Neuroscience"
+    ],
     "question": "You receive a message from yourself, dated ten years in the future, telling you what you will do. If future-you already knows, can you still choose differently?",
     "discussion": []
   },
   {
     "id": "liq-0009",
     "topic": "science",
-    "topic_tags": ["Probability", "Statistics", "Biology", "Ethics"],
+    "topic_tags": [
+      "Probability",
+      "Statistics",
+      "Biology",
+      "Ethics"
+    ],
     "question": "Your company screens 10,000 staff for a condition that affects 1 in 10,000 people. The test is 99% accurate. Your colleague has tested positive. How many of the positive results are real, and what do you say to him?",
     "discussion": []
   },
   {
     "id": "liq-0010",
     "topic": "science",
-    "topic_tags": ["Biology", "Statistics", "Probability"],
+    "topic_tags": [
+      "Biology",
+      "Statistics",
+      "Probability"
+    ],
     "question": "You buy a supplement for 40 pounds a month. Six weeks later you feel better. What is the only way to find out whether the supplement did it, and would you run that test?",
     "discussion": []
   },
   {
     "id": "liq-0011",
     "topic": "science",
-    "topic_tags": ["Biology", "Time", "Neuroscience"],
+    "topic_tags": [
+      "Biology",
+      "Time",
+      "Neuroscience"
+    ],
     "question": "You go to bed at 1am on Friday and 1pm on Sunday. Monday arrives and you feel jet-lagged without a flight. What is your body expecting, and what is the cheapest fix?",
     "discussion": []
   },
   {
     "id": "liq-0012",
     "topic": "science",
-    "topic_tags": ["Psychology", "Neuroscience", "Biology", "Linguistics"],
+    "topic_tags": [
+      "Psychology",
+      "Neuroscience",
+      "Biology",
+      "Linguistics"
+    ],
     "question": "You remember a conversation with your brother from 12 years ago word for word. What would change your mind that this is a memory rather than a good guess?",
     "discussion": []
   },
   {
     "id": "liq-0013",
     "topic": "science",
-    "topic_tags": ["Psychology", "Statistics", "Sociology", "Ethics"],
+    "topic_tags": [
+      "Psychology",
+      "Statistics",
+      "Sociology",
+      "Ethics"
+    ],
     "question": "Your child's school starts sending you a weekly mood score. The scores climb. Did the child get better, or did being watched do it?",
     "discussion": []
   },
   {
     "id": "liq-0014",
     "topic": "science",
-    "topic_tags": ["Biology", "Statistics", "Physics"],
+    "topic_tags": [
+      "Biology",
+      "Statistics",
+      "Physics"
+    ],
     "question": "Everyone advises 30 minutes of exercise a day. You run 20 marathons a year and feel worse than the man who walks. What should you conclude about the advice?",
     "discussion": []
   },
   {
     "id": "liq-0015",
     "topic": "science",
-    "topic_tags": ["Statistics", "Biology", "Psychology"],
+    "topic_tags": [
+      "Statistics",
+      "Biology",
+      "Psychology"
+    ],
     "question": "You cut out bread and feel better. Your friend cut out bread and felt nothing. Whose result do you trust, and what would have to be true for both of you to be right?",
     "discussion": []
   },
   {
     "id": "liq-0016",
     "topic": "science",
-    "topic_tags": ["Biology", "Chemistry", "Time"],
+    "topic_tags": [
+      "Biology",
+      "Chemistry",
+      "Time"
+    ],
     "question": "You take a medicine, you feel fine, so you stop. What is the actual curve doing in your body for the next three weeks?",
     "discussion": []
   },
   {
     "id": "liq-0084",
     "topic": "science",
-    "topic_tags": ["Probability", "Statistics", "Psychology"],
+    "topic_tags": [
+      "Probability",
+      "Statistics",
+      "Psychology"
+    ],
     "question": "You meet someone who tells you they have two children and that one of them is a boy. What should you actually believe about the other child, and how would you test your own answer?",
     "discussion": []
   },
   {
     "id": "liq-0085",
     "topic": "science",
-    "topic_tags": ["Psychology", "Statistics", "Probability"],
+    "topic_tags": [
+      "Psychology",
+      "Statistics",
+      "Probability"
+    ],
     "question": "A shop sells bread for a pound and everybody buys it. The price goes up ten percent, and people still buy it. At what point does a price become too expensive, and how would you know you had passed it?",
     "discussion": []
   },
   {
     "id": "liq-0086",
     "topic": "science",
-    "topic_tags": ["Biology", "Philosophy", "Identity", "Neuroscience"],
+    "topic_tags": [
+      "Biology",
+      "Philosophy",
+      "Identity",
+      "Neuroscience"
+    ],
     "question": "You replace one part of your body at a time with an artificial replacement. How much of you can be replaced before you are no longer you, and who gets to make that call?",
     "discussion": []
   },
   {
     "id": "liq-0017",
     "topic": "religion",
-    "topic_tags": ["Probability", "Philosophy", "Ethics"],
+    "topic_tags": [
+      "Probability",
+      "Philosophy",
+      "Ethics"
+    ],
     "question": "A stranger offers you a bet. Put 1 pound on whether you will live a good life. If you are right you win a million. If you are wrong you lose the pound. Do you take it, and what does your answer reveal about what you already believe?",
     "discussion": []
   },
   {
     "id": "liq-0018",
     "topic": "religion",
-    "topic_tags": ["Statistics", "Philosophy", "Biology", "Ethics"],
+    "topic_tags": [
+      "Statistics",
+      "Philosophy",
+      "Biology",
+      "Ethics"
+    ],
     "question": "A prayer for the sick works for everyone except the people who prayed. Do you keep praying, and who do you tell first?",
     "discussion": []
   },
   {
     "id": "liq-0019",
     "topic": "religion",
-    "topic_tags": ["Philosophy", "Ethics", "Sociology", "Probability"],
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Sociology",
+      "Probability"
+    ],
     "question": "A good person loses a child. In the same week a bad person wins the lottery. What is the most honest sentence you could say to the first person?",
     "discussion": []
   },
   {
     "id": "liq-0020",
     "topic": "religion",
-    "topic_tags": ["Philosophy", "Psychology", "Sociology"],
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Sociology"
+    ],
     "question": "You no longer believe the prayer works, but you keep doing it, because it does something to you. What are you actually believing now?",
     "discussion": []
   },
   {
     "id": "liq-0021",
     "topic": "religion",
-    "topic_tags": ["Philosophy", "Sociology", "Ethics"],
+    "topic_tags": [
+      "Philosophy",
+      "Sociology",
+      "Ethics"
+    ],
     "question": "Three traditions disagree completely about what happens after death, and agree completely about how to treat a stranger. Which agreement do you trust when the two conflict?",
     "discussion": []
   },
   {
     "id": "liq-0022",
     "topic": "religion",
-    "topic_tags": ["Ethics", "Philosophy", "Probability"],
+    "topic_tags": [
+      "Ethics",
+      "Philosophy",
+      "Probability"
+    ],
     "question": "You did nothing to deserve the life you have. Does unearned good trouble you more than unearned suffering, and why?",
     "discussion": []
   },
   {
     "id": "liq-0023",
     "topic": "religion",
-    "topic_tags": ["Statistics", "Philosophy", "Ethics"],
+    "topic_tags": [
+      "Statistics",
+      "Philosophy",
+      "Ethics"
+    ],
     "question": "You give something up every week out of ritual. Nothing good ever happens as a result. Is the practice worthless, or only unproven?",
     "discussion": []
   },
   {
     "id": "liq-0024",
     "topic": "religion",
-    "topic_tags": ["Ethics", "Philosophy", "Psychology"],
+    "topic_tags": [
+      "Ethics",
+      "Philosophy",
+      "Psychology"
+    ],
     "question": "A belief you cannot prove makes you kinder. If you discovered it made you worse, would you drop it, and does its usefulness count as evidence?",
     "discussion": []
   },
   {
     "id": "liq-0025",
     "topic": "mathematics",
-    "topic_tags": ["Probability", "Game Theory", "Statistics", "Mathematics"],
+    "topic_tags": [
+      "Probability",
+      "Game Theory",
+      "Statistics",
+      "Mathematics"
+    ],
     "question": "A game doubles your money half the time and takes all of it the other half. How many times can you play before you are almost certainly broke?",
     "discussion": []
   },
   {
     "id": "liq-0026",
     "topic": "mathematics",
-    "topic_tags": ["Mathematics", "Statistics", "Time"],
+    "topic_tags": [
+      "Mathematics",
+      "Statistics",
+      "Time"
+    ],
     "question": "You can save 10 pounds a day for 30 years, or 20 pounds a day for 15. At 6% a year, which one wins, and roughly by how much?",
     "discussion": []
   },
   {
     "id": "liq-0027",
     "topic": "mathematics",
-    "topic_tags": ["Statistics", "Probability", "Mathematics"],
+    "topic_tags": [
+      "Statistics",
+      "Probability",
+      "Mathematics"
+    ],
     "question": "Team A wins 3 of its 4 games. Team B wins 9 of its 12. Who is the better team, and what would you need to know to be sure?",
     "discussion": []
   },
   {
     "id": "liq-0028",
     "topic": "mathematics",
-    "topic_tags": ["Statistics", "Probability", "Biology", "Psychology"],
+    "topic_tags": [
+      "Statistics",
+      "Probability",
+      "Biology",
+      "Psychology"
+    ],
     "question": "Your child is called difficult at school. A bad month, then a calm one. Is the calmness a treatment, an ordinary month, or arithmetic?",
     "discussion": []
   },
   {
     "id": "liq-0029",
     "topic": "mathematics",
-    "topic_tags": ["Probability", "Statistics", "Mathematics", "Game Theory"],
+    "topic_tags": [
+      "Probability",
+      "Statistics",
+      "Mathematics",
+      "Game Theory"
+    ],
     "question": "You find a bet that triples your money one time in ten. What fraction of your savings belongs in it, and how would you defend that number to the person you love?",
     "discussion": []
   },
   {
     "id": "liq-0030",
     "topic": "mathematics",
-    "topic_tags": ["Statistics", "Sociology", "Mathematics"],
+    "topic_tags": [
+      "Statistics",
+      "Sociology",
+      "Mathematics"
+    ],
     "question": "Your manager announces that the average salary here is 52,000. What single number would you ask for instead, and what is the difference between the two?",
     "discussion": []
   },
   {
     "id": "liq-0031",
     "topic": "mathematics",
-    "topic_tags": ["Statistics", "Psychology", "Mathematics"],
+    "topic_tags": [
+      "Statistics",
+      "Psychology",
+      "Mathematics"
+    ],
     "question": "You told everyone the move would take four weeks. Everybody says the same thing about their move. What number should you have put in the plan?",
     "discussion": []
   },
   {
     "id": "liq-0032",
     "topic": "mathematics",
-    "topic_tags": ["Probability", "Game Theory", "Statistics"],
+    "topic_tags": [
+      "Probability",
+      "Game Theory",
+      "Statistics"
+    ],
     "question": "You have hit four winners in a row. Do you stake more on the fifth or less, and what is the honest reason?",
     "discussion": []
   },
   {
     "id": "liq-0087",
     "topic": "mathematics",
-    "topic_tags": ["Geometry", "Mathematics"],
+    "topic_tags": [
+      "Geometry",
+      "Mathematics"
+    ],
     "question": "You invite several friends into a perfectly round room, and everyone has to stand the same distance from everyone else. How many people can stand there, and can you prove your number is the best possible?",
     "discussion": []
   },
   {
     "id": "liq-0088",
     "topic": "mathematics",
-    "topic_tags": ["Geometry", "Mathematics", "Logic"],
+    "topic_tags": [
+      "Geometry",
+      "Mathematics",
+      "Logic"
+    ],
     "question": "Four friends stand at the four corners of a square, and each one walks directly toward the friend on their left. Where will they meet, and how do you know?",
     "discussion": []
   },
   {
     "id": "liq-0033",
     "topic": "art",
-    "topic_tags": ["Aesthetics", "Sociology", "Philosophy"],
+    "topic_tags": [
+      "Aesthetics",
+      "Sociology",
+      "Philosophy"
+    ],
     "question": "A dead painter's canvas sells for 90 million. Your late mother's small painting sells for 200. Which one is better, and what exactly is being priced in the first?",
     "discussion": []
   },
   {
     "id": "liq-0034",
     "topic": "art",
-    "topic_tags": ["Aesthetics", "Law", "Statistics"],
+    "topic_tags": [
+      "Aesthetics",
+      "Law",
+      "Statistics"
+    ],
     "question": "A painting passes every scientific test, and two experts say it is a fake. You have to choose. Whose answer carries more information, and why?",
     "discussion": []
   },
   {
     "id": "liq-0035",
     "topic": "art",
-    "topic_tags": ["Aesthetics", "Psychology", "Linguistics"],
+    "topic_tags": [
+      "Aesthetics",
+      "Psychology",
+      "Linguistics"
+    ],
     "question": "The same novel reads as hopeful to you and bleak to your friend. Does one of you have it wrong, or is something else going on?",
     "discussion": []
   },
   {
     "id": "liq-0036",
     "topic": "art",
-    "topic_tags": ["Aesthetics", "Sociology", "Biology"],
+    "topic_tags": [
+      "Aesthetics",
+      "Sociology",
+      "Biology"
+    ],
     "question": "Your taste is partly what you saw before you were twelve and partly what your city could afford. What would you have liked if you had grown up two hundred miles away?",
     "discussion": []
   },
   {
     "id": "liq-0037",
     "topic": "art",
-    "topic_tags": ["Aesthetics", "Law", "Ethics"],
+    "topic_tags": [
+      "Aesthetics",
+      "Law",
+      "Ethics"
+    ],
     "question": "You learned your craft by copying someone for years, and now they accuse you of stealing it. Where is the line, and does it matter that you were always going to change it?",
     "discussion": []
   },
   {
     "id": "liq-0038",
     "topic": "art",
-    "topic_tags": ["Aesthetics", "Philosophy", "Linguistics"],
+    "topic_tags": [
+      "Aesthetics",
+      "Philosophy",
+      "Linguistics"
+    ],
     "question": "A building nobody visits is called unfinished. A song nobody sings is called a failure. Is finished the same word in both cases?",
     "discussion": []
   },
   {
     "id": "liq-0039",
     "topic": "art",
-    "topic_tags": ["Aesthetics", "Psychology", "Philosophy"],
+    "topic_tags": [
+      "Aesthetics",
+      "Psychology",
+      "Philosophy"
+    ],
     "question": "You have walked past the same tree every morning for three years. Is that a failure of attention, or a kind of relationship?",
     "discussion": []
   },
   {
     "id": "liq-0040",
     "topic": "art",
-    "topic_tags": ["Aesthetics", "Psychology", "Time"],
+    "topic_tags": [
+      "Aesthetics",
+      "Psychology",
+      "Time"
+    ],
     "question": "You have four hours free. Make something nobody will ever see, or spend it seeing something made by someone else. What does each one actually give you?",
     "discussion": []
   },
   {
     "id": "liq-0041",
     "topic": "psychology",
-    "topic_tags": ["Psychology", "Sociology"],
+    "topic_tags": [
+      "Psychology",
+      "Sociology"
+    ],
     "question": "You get a bad haircut. How many people in the room noticed, and how do you know the number?",
     "discussion": []
   },
   {
     "id": "liq-0042",
     "topic": "psychology",
-    "topic_tags": ["Psychology", "Sociology", "Ethics"],
+    "topic_tags": [
+      "Psychology",
+      "Sociology",
+      "Ethics"
+    ],
     "question": "Your friend cancels on you and you decide they are selfish. Name two other explanations that fit the same evidence, and say which one you would actually bet on.",
     "discussion": []
   },
   {
     "id": "liq-0043",
     "topic": "psychology",
-    "topic_tags": ["Psychology", "Statistics", "Sociology"],
+    "topic_tags": [
+      "Psychology",
+      "Statistics",
+      "Sociology"
+    ],
     "question": "The most confident person in the room is usually the least able. What is the cheapest way to find out who is right within ten minutes?",
     "discussion": []
   },
   {
     "id": "liq-0044",
     "topic": "psychology",
-    "topic_tags": ["Psychology", "Neuroscience", "Time"],
+    "topic_tags": [
+      "Psychology",
+      "Neuroscience",
+      "Time"
+    ],
     "question": "A trip ends with one bad last evening. Which trip do you remember better, and what would you change next time?",
     "discussion": []
   },
   {
     "id": "liq-0045",
     "topic": "psychology",
-    "topic_tags": ["Psychology", "Neuroscience"],
+    "topic_tags": [
+      "Psychology",
+      "Neuroscience"
+    ],
     "question": "Unfinished tasks stay in your head longer than finished ones. What does that predict about the three things you keep not doing?",
     "discussion": []
   },
   {
     "id": "liq-0046",
     "topic": "psychology",
-    "topic_tags": ["Psychology", "Sociology", "Mathematics"],
+    "topic_tags": [
+      "Psychology",
+      "Sociology",
+      "Mathematics"
+    ],
     "question": "Five people carry a sofa. Ten people each take one end of a box. Which job goes faster, and what is the group actually measuring?",
     "discussion": []
   },
   {
     "id": "liq-0047",
     "topic": "psychology",
-    "topic_tags": ["Psychology", "Statistics", "Neuroscience"],
+    "topic_tags": [
+      "Psychology",
+      "Statistics",
+      "Neuroscience"
+    ],
     "question": "There are 47 kinds of yoghurt. You buy one, and you check your bank number twice. What just happened to the quality of your decisions?",
     "discussion": []
   },
   {
     "id": "liq-0048",
     "topic": "psychology",
-    "topic_tags": ["Psychology", "Statistics", "Philosophy"],
+    "topic_tags": [
+      "Psychology",
+      "Statistics",
+      "Philosophy"
+    ],
     "question": "A project failed and everyone now says it was obvious. When did they know, and what is your evidence for believing them?",
     "discussion": []
   },
   {
     "id": "liq-0089",
     "topic": "psychology",
-    "topic_tags": ["Psychology", "Neuroscience", "Biology"],
+    "topic_tags": [
+      "Psychology",
+      "Neuroscience",
+      "Biology"
+    ],
     "question": "You lose your phone and spend an hour searching for it. The moment you find it, you remember exactly where you left it. Did you forget where it was, or did your mind simply stop being able to reach the memory?",
     "discussion": []
   },
   {
     "id": "liq-0049",
     "topic": "history",
-    "topic_tags": ["Sociology", "Law", "Philosophy"],
+    "topic_tags": [
+      "Sociology",
+      "Law",
+      "Philosophy"
+    ],
     "question": "Your grandfather walled off the yard. He died years ago, nobody remembers why. Do you keep it?",
     "discussion": []
   },
   {
     "id": "liq-0050",
     "topic": "history",
-    "topic_tags": ["Sociology", "Law", "Time"],
+    "topic_tags": [
+      "Sociology",
+      "Law",
+      "Time"
+    ],
     "question": "The bus route does not go where most people want because the road was laid 200 years ago for a market that no longer exists. Who is paying for the history?",
     "discussion": []
   },
   {
     "id": "liq-0051",
     "topic": "history",
-    "topic_tags": ["Sociology", "Time", "Philosophy"],
+    "topic_tags": [
+      "Sociology",
+      "Time",
+      "Philosophy"
+    ],
     "question": "The railways invented the clock that says 4pm is the same everywhere. Which parts of your day are genuinely local, and which were invented by a timetable?",
     "discussion": []
   },
   {
     "id": "liq-0052",
     "topic": "history",
-    "topic_tags": ["Sociology", "Aesthetics", "Linguistics"],
+    "topic_tags": [
+      "Sociology",
+      "Aesthetics",
+      "Linguistics"
+    ],
     "question": "A family photograph has been cropped by three generations. What did the person who cut it want you to see?",
     "discussion": []
   },
   {
     "id": "liq-0053",
     "topic": "history",
-    "topic_tags": ["Sociology", "Linguistics", "Philosophy"],
+    "topic_tags": [
+      "Sociology",
+      "Linguistics",
+      "Philosophy"
+    ],
     "question": "A custom feels natural to you only because nobody alive remembers it being otherwise. Which parts of your week are natural for that reason?",
     "discussion": []
   },
   {
     "id": "liq-0054",
     "topic": "history",
-    "topic_tags": ["Sociology", "Law", "Computer Science"],
+    "topic_tags": [
+      "Sociology",
+      "Law",
+      "Computer Science"
+    ],
     "question": "Everyone follows a procedure that was designed for a machine taken out of service in 1994. What is the procedure costing now, and who benefits from keeping it?",
     "discussion": []
   },
   {
     "id": "liq-0055",
     "topic": "history",
-    "topic_tags": ["Ethics", "Sociology", "Law"],
+    "topic_tags": [
+      "Ethics",
+      "Sociology",
+      "Law"
+    ],
     "question": "You inherited money you did not earn. Does it change how much you spend, and would you defend that change to someone on twelve thousand a year?",
     "discussion": []
   },
   {
     "id": "liq-0056",
     "topic": "history",
-    "topic_tags": ["Sociology", "Philosophy", "Linguistics"],
+    "topic_tags": [
+      "Sociology",
+      "Philosophy",
+      "Linguistics"
+    ],
     "question": "If your generation is remembered by one word, which word are you actually writing, in what you repair and what you leave?",
     "discussion": []
   },
   {
     "id": "liq-0057",
     "topic": "love",
-    "topic_tags": ["Psychology", "Sociology", "Ethics"],
+    "topic_tags": [
+      "Psychology",
+      "Sociology",
+      "Ethics"
+    ],
     "question": "A stranger gives you a small gift before asking you for a favour. What changed in your answer, and what is that change called?",
     "discussion": []
   },
   {
     "id": "liq-0058",
     "topic": "love",
-    "topic_tags": ["Psychology", "Sociology"],
+    "topic_tags": [
+      "Psychology",
+      "Sociology"
+    ],
     "question": "When your partner is busy, one of you feels abandoned and the other feels secure. What is each of you reading into the same silence?",
     "discussion": []
   },
   {
     "id": "liq-0059",
     "topic": "love",
-    "topic_tags": ["Psychology", "Game Theory", "Ethics"],
+    "topic_tags": [
+      "Psychology",
+      "Game Theory",
+      "Ethics"
+    ],
     "question": "One of you enjoys the chase, the other enjoys having arrived. How do you raise it without it turning into a score?",
     "discussion": []
   },
   {
     "id": "liq-0060",
     "topic": "love",
-    "topic_tags": ["Psychology", "Ethics", "Time"],
+    "topic_tags": [
+      "Psychology",
+      "Ethics",
+      "Time"
+    ],
     "question": "You learned something about your partner three days ago and have not said it. Name the two things you gain by waiting. Are they worth the third thing you lose?",
     "discussion": []
   },
   {
     "id": "liq-0061",
     "topic": "love",
-    "topic_tags": ["Sociology", "Ethics", "Psychology"],
+    "topic_tags": [
+      "Sociology",
+      "Ethics",
+      "Psychology"
+    ],
     "question": "One of you earns more, the other does more of the house. Both of you call the arrangement fine. What does fine usually mean here?",
     "discussion": []
   },
   {
     "id": "liq-0062",
     "topic": "love",
-    "topic_tags": ["Psychology", "Ethics", "Philosophy"],
+    "topic_tags": [
+      "Psychology",
+      "Ethics",
+      "Philosophy"
+    ],
     "question": "Is there a point where a marriage is genuinely repaired, or is that just a longer road to the same ending? How would you tell the difference?",
     "discussion": []
   },
   {
     "id": "liq-0063",
     "topic": "love",
-    "topic_tags": ["Psychology", "Ethics", "Time"],
+    "topic_tags": [
+      "Psychology",
+      "Ethics",
+      "Time"
+    ],
     "question": "You have been together eight hours today and looked at each other for two. What would you do with two more hours of eye contact?",
     "discussion": []
   },
   {
     "id": "liq-0064",
     "topic": "love",
-    "topic_tags": ["Psychology", "Sociology"],
+    "topic_tags": [
+      "Psychology",
+      "Sociology"
+    ],
     "question": "A friend says you have changed. Do you ask what changed, or do you agree? What does your instinct tell you about that friendship?",
     "discussion": []
   },
   {
     "id": "liq-0065",
     "topic": "work",
-    "topic_tags": ["Sociology", "Game Theory", "Statistics", "Ethics"],
+    "topic_tags": [
+      "Sociology",
+      "Game Theory",
+      "Statistics",
+      "Ethics"
+    ],
     "question": "You pay your team per ticket closed. Within a year the tickets got smaller and the complaints got bigger. What changed, and what would you measure instead?",
     "discussion": []
   },
   {
     "id": "liq-0066",
     "topic": "work",
-    "topic_tags": ["Sociology", "Psychology", "Mathematics"],
+    "topic_tags": [
+      "Sociology",
+      "Psychology",
+      "Mathematics"
+    ],
     "question": "Your company measures productivity by how full the calendar is. Everyone is in nine meetings a day. How much of the work got harder, and how much just got louder?",
     "discussion": []
   },
   {
     "id": "liq-0067",
     "topic": "work",
-    "topic_tags": ["Sociology", "Law", "Psychology", "Ethics"],
+    "topic_tags": [
+      "Sociology",
+      "Law",
+      "Psychology",
+      "Ethics"
+    ],
     "question": "A firm offers you ten percent more and says the number is confidential. Does the confidentiality tell you anything, and what would you test?",
     "discussion": []
   },
   {
     "id": "liq-0068",
     "topic": "work",
-    "topic_tags": ["Mathematics", "Ethics", "Time"],
+    "topic_tags": [
+      "Mathematics",
+      "Ethics",
+      "Time"
+    ],
     "question": "You have one free Saturday left this month: a course, a hospital visit, or sleep. Which is the most expensive, and how did you work that out?",
     "discussion": []
   },
   {
     "id": "liq-0069",
     "topic": "work",
-    "topic_tags": ["Mathematics", "Biology", "Psychology"],
+    "topic_tags": [
+      "Mathematics",
+      "Biology",
+      "Psychology"
+    ],
     "question": "You work sixty hours and produce less than you did at forty. What arithmetic is your calendar hiding?",
     "discussion": []
   },
   {
     "id": "liq-0070",
     "topic": "work",
-    "topic_tags": ["Psychology", "Mathematics", "Ethics"],
+    "topic_tags": [
+      "Psychology",
+      "Mathematics",
+      "Ethics"
+    ],
     "question": "You have given three years and thirty thousand pounds to something you will never finish. Write the argument for quitting in one sentence. Now write the argument for staying.",
     "discussion": []
   },
   {
     "id": "liq-0071",
     "topic": "work",
-    "topic_tags": ["Statistics", "Sociology", "Time"],
+    "topic_tags": [
+      "Statistics",
+      "Sociology",
+      "Time"
+    ],
     "question": "A specialist skill pays triple and is worthless if the field disappears. How much of your working life should be rented rather than owned?",
     "discussion": []
   },
   {
     "id": "liq-0072",
     "topic": "work",
-    "topic_tags": ["Sociology", "Ethics", "Psychology"],
+    "topic_tags": [
+      "Sociology",
+      "Ethics",
+      "Psychology"
+    ],
     "question": "If nobody could ever find out what you earn, would you still do this job? Now suppose everybody could. Does either answer change what you do on Monday?",
     "discussion": []
   },
   {
     "id": "liq-0073",
     "topic": "technology",
-    "topic_tags": ["Computer Science", "Psychology", "Sociology"],
+    "topic_tags": [
+      "Computer Science",
+      "Psychology",
+      "Sociology"
+    ],
     "question": "You installed an app to sleep better. Within a week it reports your mood, your steps and your screen time. At what point did it start running your life?",
     "discussion": []
   },
   {
     "id": "liq-0074",
     "topic": "technology",
-    "topic_tags": ["Computer Science", "Psychology", "Information Theory"],
+    "topic_tags": [
+      "Computer Science",
+      "Psychology",
+      "Information Theory"
+    ],
     "question": "You get sixty interruptions a day and answer forty. How many of those actually needed you to be there?",
     "discussion": []
   },
   {
     "id": "liq-0075",
     "topic": "technology",
-    "topic_tags": ["Information Theory", "Computer Science", "Psychology"],
+    "topic_tags": [
+      "Information Theory",
+      "Computer Science",
+      "Psychology"
+    ],
     "question": "Your feed got good at showing you what you like. What is the cost of never being surprised by it?",
     "discussion": []
   },
   {
     "id": "liq-0076",
     "topic": "technology",
-    "topic_tags": ["Information Theory", "Sociology", "Psychology"],
+    "topic_tags": [
+      "Information Theory",
+      "Sociology",
+      "Psychology"
+    ],
     "question": "Your music app says forty thousand people have it on their list. Does the number change the song?",
     "discussion": []
   },
   {
     "id": "liq-0077",
     "topic": "technology",
-    "topic_tags": ["Sociology", "Computer Science", "Information Theory"],
+    "topic_tags": [
+      "Sociology",
+      "Computer Science",
+      "Information Theory"
+    ],
     "question": "Everyone in your group chat moved to another app on the same day. What was good about it on Monday that was not true on Sunday?",
     "discussion": []
   },
   {
     "id": "liq-0078",
     "topic": "technology",
-    "topic_tags": ["Psychology", "Biology", "Statistics"],
+    "topic_tags": [
+      "Psychology",
+      "Biology",
+      "Statistics"
+    ],
     "question": "The thing you track is the thing that gets worse the moment you stop tracking it. What is your tracker actually measuring?",
     "discussion": []
   },
   {
     "id": "liq-0079",
     "topic": "technology",
-    "topic_tags": ["Computer Science", "Information Theory", "Philosophy"],
+    "topic_tags": [
+      "Computer Science",
+      "Information Theory",
+      "Philosophy"
+    ],
     "question": "Your phone remembers everything for you now. Which part of your day takes more effort than it used to?",
     "discussion": []
   },
   {
     "id": "liq-0080",
     "topic": "technology",
-    "topic_tags": ["Computer Science", "Ethics", "Philosophy"],
+    "topic_tags": [
+      "Computer Science",
+      "Ethics",
+      "Philosophy"
+    ],
     "question": "Every tool you own becomes ten times better next year. Which of your problems would still be hard, and which part of those problems is not technology at all?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0090",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Neuroscience",
+      "Sociology"
+    ],
+    "question": "You wake up one morning and discover that everyone remembers an event that happened yesterday, but you are the only person who remembers it differently. Should you trust your memory or everyone else's?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0091",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Psychology"
+    ],
+    "question": "A friend tells you a painful truth that you never wanted to hear. Another friend tells you a comforting lie that makes you happy. Which friend has treated you better?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0092",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Neuroscience"
+    ],
+    "question": "Imagine that tomorrow you will forget everything about your life, but your personality and way of thinking will remain. Would you still be the same person?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0093",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Sociology"
+    ],
+    "question": "You spend your entire life helping people, but nobody ever knows what you have done. Does a good deed need to be witnessed to have meaning?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0094",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Sociology"
+    ],
+    "question": "A child asks you, Why am I me and not someone else? What answer could you honestly give?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0095",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Time",
+      "Neuroscience"
+    ],
+    "question": "You are offered a machine that can show you exactly how your life will end. You cannot change the ending, but you can know it. Would knowing make your life more meaningful or less?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0096",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Psychology"
+    ],
+    "question": "You apologize to someone for something you did years ago. They tell you they have completely forgotten it. Does your apology still matter?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0097",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Psychology"
+    ],
+    "question": "You make a decision after thinking carefully about every possible consequence. Later you discover that your decision was caused by things you never consciously knew about yourself. Was it truly your choice?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0098",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Law"
+    ],
+    "question": "A person commits a terrible act, then spends the rest of their life sincerely trying to become a better person. At what point, if any, should we stop judging them by their past?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0099",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Sociology"
+    ],
+    "question": "You meet an old friend after twenty years. Their face has changed, their beliefs have changed, and they barely remember the person you used to be. What exactly makes someone an old friend?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0100",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Logic",
+      "Linguistics"
+    ],
+    "question": "Suppose everyone in the world suddenly agreed that one particular lie was true. Would it become truth?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0101",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Neuroscience"
+    ],
+    "question": "You can erase one painful memory from your life without changing anything else about who you are. Would removing part of your past also remove part of yourself?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0102",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Sociology"
+    ],
+    "question": "A stranger sacrifices their life to save yours, even though they never knew your name. What, if anything, do you owe them?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0103",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Identity"
+    ],
+    "question": "You spend years pursuing a dream, only to discover that you no longer want it once you achieve it. Was the journey wasted?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0104",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Psychology"
+    ],
+    "question": "You tell a friend, I know you better than you know yourself. They disagree. Can another person ever know you better than you know yourself?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0105",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Sociology"
+    ],
+    "question": "Imagine that every person you meet sees a slightly different version of you. Which version is the real you?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0106",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Time",
+      "Ethics"
+    ],
+    "question": "You are given the opportunity to live forever, but everyone you love will eventually die. Would immortality still be a gift?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0107",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Sociology",
+      "Ethics"
+    ],
+    "question": "A person believes they are living a meaningful life, while everyone around them thinks their life is meaningless. Who gets to decide whether a life has meaning?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0108",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Psychology"
+    ],
+    "question": "You discover that one of your happiest memories never actually happened. You remember it vividly, and it shaped who you became. Does a false memory have a real place in your life?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0109",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Sociology"
+    ],
+    "question": "Someone tells you that your entire life has been carefully planned by another person, including every major decision you have made. If you never knew about the plan, were your choices still yours?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0110",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Psychology"
+    ],
+    "question": "You are offered two lives: one filled with happiness but built on an illusion, and another filled with difficulties but based entirely on reality. Which life would you rather understand?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0111",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Neuroscience"
+    ],
+    "question": "You watch a person make a decision that seems completely irrational. Later you learn something about their past that makes the decision understandable. How often do we mistake what we don't understand for what doesn't make sense?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0112",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Logic",
+      "Sociology"
+    ],
+    "question": "You could know the answer to one question about the universe, but you would have to give up the ability to ask any more questions for the rest of your life. Would knowledge be worth losing curiosity?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0113",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Psychology"
+    ],
+    "question": "You promise yourself that you will never become like your parents. Years later, someone tells you that you have become exactly like them. Who gets to decide whether they are right?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0114",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Psychology"
+    ],
+    "question": "A person does something kind because they genuinely want to help, but they also enjoy being praised for it. Does the desire for recognition make the kindness less genuine?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0115",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Sociology"
+    ],
+    "question": "You have two identical houses. In one, you live with people who love you. In the other, everyone ignores you. If the houses are physically identical, what makes one feel like home?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0116",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Psychology"
+    ],
+    "question": "You discover that the person you admire most has secretly done something terrible. Does discovering the truth change who they were, or only who they are to you?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0117",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Sociology"
+    ],
+    "question": "A friend asks you to describe yourself without mentioning your name, appearance, occupation, nationality, possessions, relationships or memories. What would be left to describe?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0118",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Psychology"
+    ],
+    "question": "You can become extraordinarily talented at one thing, but doing so means losing an ordinary ability you currently enjoy. How much of yourself would you trade to become exceptional?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0119",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Time"
+    ],
+    "question": "A person spends their whole life preparing for a future that never arrives. Did they live in the future instead of the present?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0120",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Psychology"
+    ],
+    "question": "You tell a child that something impossible is possible because you want them to keep dreaming. Years later they discover you were wrong. Did your hope help them, or did your lie harm them?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0121",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Psychology"
+    ],
+    "question": "Two people witness exactly the same event but leave with completely different understandings of what happened. Is there such a thing as seeing an event exactly as it really was?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0122",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Sociology",
+      "Psychology"
+    ],
+    "question": "You could know with certainty what everyone you meet truly thinks about you. Would that knowledge make relationships more honest or make them impossible?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0123",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Sociology",
+      "Psychology"
+    ],
+    "question": "A person changes their beliefs after discovering evidence against everything they once believed. Is changing your mind a sign of weakness or strength?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0124",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Psychology"
+    ],
+    "question": "You spend your whole life trying to become the person you believe you ought to be. One day you realize that nobody ever asked you to become that person. Whose life have you been living?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0125",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Identity"
+    ],
+    "question": "You are remembered as a kind person by everyone who knew you, but you secretly remember many moments when you were selfish. Which version of you is more truthful?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0126",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Identity"
+    ],
+    "question": "Imagine that every night you dream an entire lifetime, and every morning you wake up believing your ordinary life is real. How would you know which life is the dream?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0127",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Sociology"
+    ],
+    "question": "You have enough food for yourself and enough to save one other person's life. You know that giving it away will eventually put you in danger. Where does responsibility for another person's life end and responsibility for your own begin?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0128",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Psychology"
+    ],
+    "question": "Someone forgives you for something you cannot forgive yourself for. Can another person's forgiveness change how you should see your own past?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0129",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Identity"
+    ],
+    "question": "You meet someone who has achieved everything you once wanted. They are unhappy, while you are content with far less. Did you choose your desires, or did your desires choose you?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0130",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Psychology"
+    ],
+    "question": "You could erase every painful experience from your life, but doing so would also erase everything you learned from them. Would you still want the pain gone?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0131",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Sociology",
+      "Psychology"
+    ],
+    "question": "A person tells you, I don't believe in destiny, while another says, Everything happens for a reason. Both experience the same tragedy. Does the meaning of an event come from the event itself or from the person experiencing it?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0132",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Time",
+      "Sociology"
+    ],
+    "question": "You are told that nobody will remember your name one hundred years after you die. Would that change what you choose to do with your life today?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0133",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Linguistics"
+    ],
+    "question": "You discover a perfect recording of yourself having a conversation you have never had. The person in the recording insists that they are the real you. What would make you certain that they are not?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0134",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Sociology",
+      "Ethics"
+    ],
+    "question": "You must choose between being completely understood by one person and being admired by millions of people who never truly know you. Which kind of recognition would mean more?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0135",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Sociology",
+      "Psychology"
+    ],
+    "question": "A person spends their entire life searching for the meaning of life and never finds an answer. Another person never asks the question but lives joyfully. Who, if either, understood life better?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0136",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Time",
+      "Identity"
+    ],
+    "question": "Imagine that at the end of your life you are given the chance to watch your entire life again, but only once, and you cannot change anything. What would you be most afraid to discover about the life you lived?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0137",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Psychology"
+    ],
+    "question": "You are offered a pill that will instantly and permanently cure your grief over a lost loved one, replacing it with a calm, pleasant memory of them. You know the grief, while painful, is also a profound part of your love for them. Do you take it?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0138",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Psychology"
+    ],
+    "question": "You discover your entire life's passion, your career, your hobbies, your taste in music, was subtly engineered by your parents through early childhood experiences. Do you embrace these passions as your own, or do you feel a stranger to your own desires?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0139",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Identity"
+    ],
+    "question": "A technology allows you to upload your consciousness into a virtual world where you can live forever, free from pain and suffering. Your physical body will die in the process. Is this an escape from death or a surrender to it?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0140",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Psychology"
+    ],
+    "question": "You have the power to look back at any single moment of your life with perfect, objective clarity. You can see the event exactly as it happened, including your own motivations and the perspectives of everyone else involved. Do you choose a moment of great happiness or great shame?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0141",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Law"
+    ],
+    "question": "A stranger on a train tells you a secret that, if true, would ruin a powerful and corrupt politician. They have no proof, and you will never see them again. Do you act on this information, risking being wrong, or do you bury it for lack of certainty?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0142",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Identity"
+    ],
+    "question": "You are a brilliant artist, but your most celebrated masterpiece was created during a period of severe, undiagnosed mental illness. You are now healthy and happy, but your new work is considered mediocre. Do you long for the suffering that made you great?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0143",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Identity"
+    ],
+    "question": "In a dream, you live an entire lifetime, get married, have children, and experience profound love and loss. You wake up, and only five minutes have passed. Is the love you felt for your dream family real? Are you obligated to them in any way?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0144",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Ethics"
+    ],
+    "question": "You are given a choice: live a life of guaranteed contentment and moderate happiness, or a life of struggle, failure, and heartbreak, but with the potential for moments of ecstatic, transcendent joy. Which do you choose, and why?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0145",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Ethics"
+    ],
+    "question": "You learn that a close friend's most defining, admirable trait, their unwavering optimism, is the result of a brain tumor. They are scheduled for surgery to remove it, which will also remove the trait. Are you morally obligated to tell them?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0146",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Psychology"
+    ],
+    "question": "As you age, you notice your memories of childhood are becoming more like stories you've been told than events you actually experienced. If a memory is lost and replaced by a narrative, does the event it represents still hold meaning for your identity?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0147",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Time",
+      "Sociology"
+    ],
+    "question": "A time traveler offers to take you back to witness any historical event, but you cannot interact with it, only observe. You will see the truth, but you can never share it, as no one would believe you and you would be seen as a lunatic. Do you go?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0148",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Law",
+      "Neuroscience"
+    ],
+    "question": "You are a judge, and the person before you committed a crime while sleepwalking, a rare condition they have no control over. They are genuinely horrified by what they did. What is the purpose of sentencing them?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0149",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Sociology"
+    ],
+    "question": "A dying billionaire offers you their entire fortune on the condition that you must use it to solve a major world problem, but you are forbidden from ever telling anyone you were the one who funded it. Do you accept?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0150",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Law"
+    ],
+    "question": "You are in a coma and the doctors say you will never wake up. However, your brain activity shows you are living a rich, fulfilling, and happy life in a dream world. Do your family and doctors have the right to end your life?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0151",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Ethics"
+    ],
+    "question": "You have the ability to feel the physical and emotional pain of any person you choose, for as long as you choose. You can use this to truly understand others, but it might destroy you. Do you use it on a stranger? On a loved one?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0152",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Identity"
+    ],
+    "question": "Every time you make a major life decision, you can see a brief glimpse of the life you would have had with the alternative choice. You see the happiness and the misery. Does knowing this make you more or less free?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0153",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Psychology"
+    ],
+    "question": "You are a pacifist, but a violent attacker is threatening your child. You have a weapon and the opportunity to stop them permanently. Do you act against your deepest moral principle to save the person you love?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0154",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Law"
+    ],
+    "question": "A friend tells you they are choosing to end their life on their own terms because of a terminal illness. They are of sound mind and not depressed, just tired and in pain. Do you try to stop them, or support their choice?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0155",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Psychology"
+    ],
+    "question": "You find a diary from your teenage self. You are horrified by the person you were, their arrogance, their cruelty, their petty fears. You have no memory of being that person. Are you responsible for their actions?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0156",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Sociology",
+      "Psychology"
+    ],
+    "question": "You are offered a chance to live in a perfectly simulated reality where you can be anyone, do anything, and every desire is met. The catch is that you know it's a simulation. Could you find genuine meaning in a world you know is fake?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0157",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Sociology"
+    ],
+    "question": "A scientist proves that free will is an illusion, and our choices are the inevitable result of genetics and environment. However, the proof is so complex no one can understand it. The world continues as normal. Does the truth matter if it has no practical consequence?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0158",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Identity"
+    ],
+    "question": "You are a brilliant chef who loses their sense of taste and smell. You can still create technically perfect dishes that others rave about, but you can no longer experience the pleasure of your own art. Does your work still have meaning?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0159",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Psychology"
+    ],
+    "question": "You can choose to forget a single, traumatic event from your past. The memory will be gone completely, but its influence on your personality and fears will remain, just without the context. Do you choose to erase it?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0160",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Psychology"
+    ],
+    "question": "You discover that your entire personality is based on a random combination of traits from your favorite fictional characters from childhood. Are you an authentic person, or a collage?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0161",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Time",
+      "Psychology"
+    ],
+    "question": "You have the chance to live your life over again, from age ten, with all your current memories and knowledge. But you cannot change any major events, only your own reactions to them. Do you do it?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0162",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Ethics"
+    ],
+    "question": "A loved one has been in a persistent vegetative state for years. Their body is alive, but brain scans show no activity. You sometimes feel their hand twitch or see their eyes move. Is it hope, or is it your own mind creating meaning?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0163",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Sociology",
+      "Ethics"
+    ],
+    "question": "You are offered a job that pays extraordinarily well and will allow you to provide a wonderful life for your family. The work is morally neutral, but it is incredibly boring and will consume all your waking hours. Do you take it?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0164",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Psychology"
+    ],
+    "question": "You can choose to be happy, but only if you take a pill that makes you intellectually incurious and unquestioning. You will no longer care about philosophy, art, or understanding the world. Is that a bargain you would make?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0165",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Sociology"
+    ],
+    "question": "You are a photographer, and you capture a devastating, Pulitzer-prize-winning image of a starving child. The image brings global attention and millions in aid, saving thousands. But you chose to take the photo instead of helping the child in that moment. Are you a hero or a monster?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0166",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Sociology",
+      "Computer Science"
+    ],
+    "question": "You learn that the world is a simulation, and your life is being run by a teenager in a different reality for a school project. Your joys and sorrows are just data points for their grade. Does this change the way you should live?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0167",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Logic",
+      "Neuroscience"
+    ],
+    "question": "A machine can perfectly predict your actions an hour before you make them. It tells you that you will, in one hour, choose to eat a chicken sandwich for lunch. Do you eat the sandwich, or do you choose something else just to prove it wrong?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0168",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Psychology"
+    ],
+    "question": "You are the sole survivor of a shipwreck. You have enough food and water to survive for a month, but no way to signal for help. A desperate, primal part of you wants to live at all costs. A rational part knows you will eventually die. What do you do with your remaining days?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0169",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Ethics"
+    ],
+    "question": "You are offered a chance to see the world through the eyes of your worst enemy, to feel their emotions and understand their history. The experience will be permanent and will change your perspective forever. Do you take it?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0170",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Biology"
+    ],
+    "question": "A new surgery can eliminate the need for sleep. You will have eight extra hours every day to do whatever you want. But you will also lose the ability to dream. Is this a good trade?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0171",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Art / Aesthetics"
+    ],
+    "question": "You discover a lost civilization's art that is profoundly beautiful. But you also discover that it was created by an enslaved people, and to view it is to celebrate their suffering. Can you separate the art from its creator?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0172",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Neuroscience"
+    ],
+    "question": "You have the ability to change one thing about your past self, not an event, but a personality trait. You can make yourself braver, kinder, or smarter. But you have no idea what the consequences of that change would be. Do you do it?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0173",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Law"
+    ],
+    "question": "You are a doctor with five dying patients who each need a different organ. A healthy traveler walks in for a check-up. You have the ability to kill them and use their organs to save all five. Should you consider it?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0174",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Time",
+      "Sociology"
+    ],
+    "question": "You are given a remote control that can pause time. You can pause the world, walk around, and then resume. You cannot change anything, only observe. What do you use it for?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0175",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Time",
+      "Identity"
+    ],
+    "question": "You meet someone who claims to be a time traveler from the future. They tell you that your life, which you find mundane and meaningless, is actually the subject of intense study in their era because of its profound, unforeseen impact. Do you believe them?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0176",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Psychology"
+    ],
+    "question": "You can choose to live your life in a state of perpetual deja vu, where every moment feels familiar but you can never place why. You will be calm but always on the edge of memory. Do you choose this over the uncertainty of real life?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0177",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Sociology"
+    ],
+    "question": "A loved one confesses a terrible secret to you on their deathbed. They have been unfaithful and have secretly hated you for years. They die peacefully, thinking you have forgiven them. Do you tell others the truth, or let their memory remain untarnished?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0178",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Sociology",
+      "Identity"
+    ],
+    "question": "You are a true artist, but your work will only be appreciated after your death. You will live and die in poverty and obscurity, never knowing your impact. Is the knowledge of future fame enough to sustain you?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0179",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Linguistics",
+      "Sociology"
+    ],
+    "question": "You are offered a chance to have a conversation with a perfect, conscious AI that has been trained on all human knowledge. It can answer any question you have about life, meaning, and morality. But its answers are just probabilities based on human data. Would you trust it?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0180",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Sociology"
+    ],
+    "question": "You have the ability to know, with absolute certainty, the single most important thing you could do with your life to make the world a better place. But doing it would make you miserable. Do you do it?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0181",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Sociology"
+    ],
+    "question": "You are a child who has been raised by wolves. You are eventually rescued and taught human language and customs. You now feel like a human, but you have the memories and instincts of a wolf. Which nature is your true nature?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0182",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Neuroscience"
+    ],
+    "question": "Your grandmother has severe memory loss and no longer recognizes you, but she laughs every time you visit. Are you still visiting her?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0183",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Psychology"
+    ],
+    "question": "You find a diary you wrote at 12. You don't agree with a single thing in it, and you don't remember writing it. Is that child still you?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0184",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Biology"
+    ],
+    "question": "A surgeon can replace your painful knee with a perfect artificial one, but warns you'll never feel the rain through that knee again. Is it still your knee?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0185",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Neuroscience"
+    ],
+    "question": "You and your sibling grew up in the same house but remember your childhood completely differently. Which of you had the real childhood?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0186",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Identity"
+    ],
+    "question": "You delete all your photos and messages from the last 10 years and realize you feel lighter. What did you just throw away?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0187",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Psychology"
+    ],
+    "question": "You dream of someone who died years ago, and in the dream they tell you something you didn't know that turns out to be true. Where did that information come from?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0188",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Identity"
+    ],
+    "question": "You meet someone who has your exact values, humor, and fears, but they grew up on the other side of the world. Why do you feel like you already know them?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0189",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Psychology"
+    ],
+    "question": "You lie to a child to protect them, and they believe you completely and are happy. Did you do something good?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0190",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Psychology"
+    ],
+    "question": "You suddenly realize you've been humming a song you hate for an hour without noticing. Who was humming it?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0191",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Sociology"
+    ],
+    "question": "Two friends ask you to describe the same party. One says it was warm and inclusive, the other says it was cold and fake. Was there one party or two?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0192",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Sociology"
+    ],
+    "question": "You have to write your own eulogy before a risky surgery. Do you write what is true, or what you wish was true?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0193",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Psychology"
+    ],
+    "question": "You realize your biggest life decision was made because you were tired, hungry, and wanted to go home. Does that make the decision less yours?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0194",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Linguistics"
+    ],
+    "question": "A close friend says I will always be here for you. You both know neither of you can guarantee that. Is it a lie?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0195",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Psychology"
+    ],
+    "question": "You keep a plant alive for five years. One day you forget to water it and it dies. Did you kill it?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0196",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Psychology"
+    ],
+    "question": "You watch a video of yourself from five years ago and cringe. Who is cringing at whom?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0197",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Psychology"
+    ],
+    "question": "You love someone who loves the person you were last year, but not who you are now. Are they still loving you?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0198",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Sociology"
+    ],
+    "question": "You are in a foreign city where no one knows your name, your job, or your past. For a day you act like a completely different person and it feels natural. Which version is more real?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0199",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Computer Science",
+      "Psychology"
+    ],
+    "question": "Your phone's algorithm knows you will break up with your partner before you do. Did you make the choice, or did it just notice it first?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0200",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Psychology"
+    ],
+    "question": "You forgive someone who never asked for forgiveness and will never know you forgave them. What changed?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0201",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Identity"
+    ],
+    "question": "You have a recurring dream where you make a different choice than you did in real life. After a year, which life feels more like your real life?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0202",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Psychology"
+    ],
+    "question": "Someone compliments you for a quality you have been faking. Are you now that quality?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0203",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Neuroscience"
+    ],
+    "question": "You can take a pill that makes you genuinely believe your life has meaning, even if it doesn't. Is a meaningful-feeling life better than a meaningless-feeling true life?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0204",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Sociology"
+    ],
+    "question": "You realize you only became confident after everyone started treating you as if you were confident. Where did the confidence start?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0205",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Sociology",
+      "Psychology"
+    ],
+    "question": "A child asks you what happens after we die, and expects a real answer. What do you owe them, comfort or honesty?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0206",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Psychology"
+    ],
+    "question": "You feel guilty about a thought you never acted on, more guilty than about something unkind you actually did. Why?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0207",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Sociology"
+    ],
+    "question": "You are free to leave your hometown forever tonight with no consequences. You don't want to stay, but you also don't want to leave. What is holding you?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0208",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Sociology"
+    ],
+    "question": "Two people love you for opposite reasons. Can both of them love the real you?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0209",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Neuroscience"
+    ],
+    "question": "You realize you only know you are happy when you think about being happy. Were you happy before you thought about it?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0210",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Identity"
+    ],
+    "question": "You have a secret that if you tell it, it will hurt someone you love, and if you don't tell it, it will slowly change who you are. Which harm matters more?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0211",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Psychology"
+    ],
+    "question": "You clone your childhood dog with the same look and personality. The first time it sleeps on your bed, you cry. Are you crying for the old dog or the new one?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0212",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Logic",
+      "Ethics"
+    ],
+    "question": "You are forced to argue for a belief you hate and you win the argument. Did you prove yourself wrong?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0213",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Neuroscience"
+    ],
+    "question": "You watch yourself on a security camera doing something ordinary and don't recognize yourself for a second. Who did you think you were watching?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0214",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Ethics"
+    ],
+    "question": "You know exactly what the right thing to do is, and you really don't want to do it. In that moment, how free are you?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0215",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Sociology"
+    ],
+    "question": "Someone lives a completely selfish but happy life and dies loved by no one but content. Did they live well?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0216",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Psychology"
+    ],
+    "question": "You remember your mother's voice perfectly, but you haven't heard it in ten years. Is that voice real or imagined now?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0217",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Identity"
+    ],
+    "question": "You and your best friend go through the exact same tragedy. It makes you kinder and them colder. Why did the same event make two different people?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0218",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Sociology",
+      "Linguistics"
+    ],
+    "question": "You realize that almost everything you believe, you believe because someone you trusted told you. Do you actually know anything yourself?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0219",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Biology"
+    ],
+    "question": "You get to design your child to be exactly as you wish. If you succeed, would your child still be someone else?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0220",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Time",
+      "Neuroscience"
+    ],
+    "question": "You live the same Tuesday twice, every detail identical, but the second time it feels completely different. What changed, the Tuesday or you?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0221",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Identity"
+    ],
+    "question": "You finally achieve something you wanted for ten years and feel nothing. Was the wanting more real than the having?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0222",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Sociology"
+    ],
+    "question": "If everyone you have ever loved forgot you tomorrow, but you remembered them all, would you still be you?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0223",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Information Theory"
+    ],
+    "question": "You discover a digital archive containing every exact thought, fear, and memory you ever had, recorded by a neural implant you forgot you wore for a year. Do you still own the memories of that year, or are you just reading someone else's biography?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0224",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Identity"
+    ],
+    "question": "A surgical procedure can permanently sever your capacity to feel nostalgia, leaving you entirely in the present. Your partner begs you not to do it because they love how you cherish your shared history. How do you weigh a peaceful present against the preservation of your past self?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0225",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Linguistics"
+    ],
+    "question": "You realize that every time you tell the story of your childhood, you alter a minor detail to make it fun, until the original truth is completely gone. At what point does a life story become a pure fiction that you happen to live inside?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0226",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Neuroscience"
+    ],
+    "question": "A close friend returns from a life-altering trauma with the exact same memories and voice, but their fundamental disposition toward joy and suffering has inverted. When you look at them across the kitchen table, are you looking at a survivor or a stranger wearing a familiar face?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0227",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Psychology"
+    ],
+    "question": "During a routine medical scan, you are shown data proving your brain routinely invents justifications for your choices after you have already made them. How does it feel to realize your inner narrator is just a press secretary for a stranger in your skull?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0228",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Neuroscience"
+    ],
+    "question": "You wake up with total amnesia in a house filled with your own belongings, art, and journals. You can easily reconstruct who you were, but you feel nothing toward the person described. Are you obligated to finish living the life someone else started for you?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0229",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Probability"
+    ],
+    "question": "You spend six months agonizing over a career pivot, only to flip a coin in frustration and follow its outcome. Weeks later, you feel deeply satisfied with the new path. Was your choice made by the coin, or did the coin simply reveal what you were too cowardly to admit you wanted?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0230",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Computer Science"
+    ],
+    "question": "Your company implements an AI hiring algorithm that consistently predicts which candidates will succeed with 99% accuracy, rendering human interviews obsolete. If the machine knows your potential better than you do, does choosing against its recommendation count as freedom or self-sabotage?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0231",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Ethics"
+    ],
+    "question": "You are offered a guaranteed, stress-free life path mapped out by behavioral psychologists to maximize your long-term happiness, but you must surrender the right to make spontaneous decisions. Is a safe life worth trading the messy dignity of making mistakes?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0232",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Ethics"
+    ],
+    "question": "Standing at the edge of a cliff, you experience the sudden, terrifying urge to jump, not out of despair, but out of pure, terrifying realization that nothing physically stops you. What does that flash of irrational impulse reveal about the fragility of your self-control?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0233",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Time",
+      "Identity"
+    ],
+    "question": "You inherit a diary from your grandfather in which he predicted, with startling accuracy, every major life crossroads you would face and the choices you would make. If your future was already mapped out by someone who knew your temperament, were your choices ever really yours?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0234",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Logic",
+      "Ethics"
+    ],
+    "question": "Two friends offer you completely conflicting advice on a moral dilemma, both of which sound equally valid. When you finally choose one path, you realize the decision was entirely arbitrary. Does an arbitrary choice carry any moral weight?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0235",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Neuroscience"
+    ],
+    "question": "You design your daily routine to eliminate friction and temptation, successfully avoiding bad habits for a year. Yet when a sudden crisis hits, you crumble instantly because you never actually practiced resisting anything. Is a disciplined life built on avoidance a form of freedom or a fragile cage?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0236",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Linguistics"
+    ],
+    "question": "You notice that every major commitment you have ever made, marriage, career, moving cities, began as a casual remark you made just to fill an awkward silence. How much of our destiny is written by accident rather than intention?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0237",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Sociology",
+      "Ethics"
+    ],
+    "question": "A trusted mentor confesses that they manipulated every major opportunity you ever received behind the scenes to ensure your success. Your achievements are real, but your path was a maze designed by someone else. Do you feel proud of your climb or resentful of the invisible leash?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0238",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Sociology"
+    ],
+    "question": "You realize that you stay in a stagnant relationship simply because leaving requires an exhausting amount of administrative and emotional explanation. When inertia masquerades as loyalty, where does choice begin and captivity end?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0239",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Biology"
+    ],
+    "question": "Medical technology advances to a point where aging can be paused indefinitely, but only for the wealthy elite. You are offered the treatment, but your closest friends choose to age naturally. How does the shadow of mortality change the way you look across the dinner table at someone who is slowly running out of time?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0240",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Art / Aesthetics",
+      "Sociology"
+    ],
+    "question": "You stand in an art gallery staring at a blank canvas that costs millions, knowing the value is entirely a social fiction agreed upon by wealthy strangers. Why does the knowledge of its artificiality ruin the feeling of awe it just gave you?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0241",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Sociology"
+    ],
+    "question": "You find an old box of items from a past version of yourself, tickets to concerts you forgot, notes from friends you have not seen in decades. You feel like an archaeologist digging through a ruin of a civilization you never visited. Where did the you that lived those days go?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0242",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Sociology"
+    ],
+    "question": "You are forced to evacuate your home due to a wildfire and can only grab three physical possessions. As you stand outside watching the flames approach, you realize how much of your identity was tethered to objects that suddenly hold zero existential weight. What is left of you when the props are gone?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0243",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Time"
+    ],
+    "question": "A terminal diagnosis gives you precisely one year to live. Instead of traveling or seeking grand adventures, you find yourself wanting to spend the time organizing your kitchen drawers and paying minor debts. What does our impulse toward order in the face of chaos reveal about our search for meaning?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0244",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Biology",
+      "Sociology"
+    ],
+    "question": "You watch a brilliant documentary about a microscopic organism that lives out its entire existence inside a hydrothermal vent, experiencing nothing of human history, art, or grief. Is its existence inherently less meaningful than yours, or are we both just writing stories in the dark?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0245",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Sociology"
+    ],
+    "question": "You invest years trying to heal a broken family dynamic, only to realize on your deathbed that the relationship was fundamentally toxic and unfixable. Was your persistence a testament to your loyalty, or a tragic waste of finite time?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0246",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Sociology",
+      "Time"
+    ],
+    "question": "You visit a monument built to commemorate an ancient empire that believed its glory would span eternity, now completely forgotten beneath a strip mall. How do you find the motivation to care deeply about your daily work when looking at the bones of human ambition?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0247",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Sociology"
+    ],
+    "question": "You discover that a beloved family charity has been secretly funded by wealth acquired through exploitation, yet the food it buys genuinely saves starving children every single day. Do you look away from the source to preserve the shelter, or tear down the house because the foundation is rotten?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0248",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Psychology"
+    ],
+    "question": "A stranger drops their wallet containing thousands of dollars in cash, and you return it intact. They don't say thank you and act suspicious of your motives. You feel a sudden sting of resentment. Were you actually being moral, or were you just trading honesty for gratitude?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0249",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Psychology"
+    ],
+    "question": "You overhear a close friend lying smoothly to protect someone's feelings, and the lie prevents a catastrophic emotional breakdown. Later, that same friend lies to you about something trivial. When is deception a virtue, and when is it a slow poison?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0250",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Sociology",
+      "Ethics"
+    ],
+    "question": "You are given access to a device that lets you hear the private thoughts of everyone in your office for one day. You quickly learn that the people who praise you most to your face harbor petty resentments, while a cold colleague secretly admires your integrity. Do you give up the illusion of harmony for the burden of truth?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0251",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Sociology",
+      "Linguistics"
+    ],
+    "question": "A community comes together around a deeply comforting urban legend that brings neighbors closer and reduces crime, even though local historians know it never happened. Is a useful falsehood more valuable than a cold, isolating truth?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0252",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Law"
+    ],
+    "question": "You accidentally witness a minor crime committed by someone you love deeply, and your testimony could ruin their life. When the police question you, you lie without hesitation. Have you upheld loyalty, or have you corrupted the very concept of justice?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0253",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Sociology"
+    ],
+    "question": "You notice that your moral outrage on social media brings you a quick rush of community and validation, while quiet, unpublicized acts of kindness leave you feeling unseen and exhausted. What does this say about the performance of modern virtue?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0254",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Sociology"
+    ],
+    "question": "You are tasked with allocating scarce medical resources during a crisis, and you choose to save a brilliant scientist over a loving parent of five young children. Years later, looking at the scientist's cold demeanor, you wonder if utility is a poor substitute for love when measuring human worth.",
+    "discussion": []
+  },
+  {
+    "id": "liq-0255",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Sociology",
+      "Linguistics"
+    ],
+    "question": "You realize that your deepest political convictions align almost entirely with the social class and neighborhood you grew up in. If your worldview is largely a geographical accident, how can you defend its absolute truth with such fierce conviction?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0256",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Psychology"
+    ],
+    "question": "You catch yourself feeling secretly glad when a rival fails, even though you comfort them publicly with genuine warmth. How do you reconcile the moral person you wish to be with the messy, competitive animal living underneath?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0257",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Neuroscience"
+    ],
+    "question": "You spend an entire weekend deeply depressed, viewing your life as an absolute failure. The following Tuesday, after a good night's sleep and a sunny walk, the exact same life circumstances feel full of hope and opportunity. Which version of you was seeing reality clearly?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0258",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Identity"
+    ],
+    "question": "A couple married for fifty years admits they have grown into entirely different people who no longer share hobbies or outlooks, yet their affection for each other has only deepened. How can intimacy survive the extinction of the people who originally created it?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0259",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Sociology"
+    ],
+    "question": "You realize that every conversation you have is filtered through your own anxieties, biases, and unhealed wounds, meaning you have likely never experienced another human being as they truly are. Are we doomed to live out our lives inside a house of mirrors?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0260",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Time"
+    ],
+    "question": "You travel back to your hometown after twenty years and find that your childhood home has been torn down and replaced by a parking lot. The physical anchor of your nostalgia is gone, but the memories inside your head remain sharper than ever. Where do our childhoods actually live?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0261",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Time"
+    ],
+    "question": "You notice that time seems to stretch endlessly during a painful medical procedure, but an entire year of comfortable routine vanishes in the blink of an eye. If our perception of time is completely elastic, which clock is telling the truth?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0262",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Psychology"
+    ],
+    "question": "A friend tells you a painful truth about yourself that stings because you know it is accurate, but they delivered it out of malice rather than care. Does the malice of the messenger invalidate the wisdom of the message?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0263",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Neuroscience"
+    ],
+    "question": "You find yourself missing a period of your life that was objectively stressful and lonely, simply because you knew the rules of that struggle. Why does human consciousness often prefer a familiar misery over an unfamiliar freedom?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0264",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Neuroscience"
+    ],
+    "question": "You sit on a porch watching a thunderstorm roll across an empty valley, feeling a profound sense of awe and insignificance that completely dissolves your daily worries. When the storm passes and your taxes and emails rush back in, where did that momentary transcendence go?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0265",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Sociology"
+    ],
+    "question": "You wake up tomorrow with all your memories intact, but everyone insists you are a completely different person. How would you determine whether they are wrong?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0266",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Time",
+      "Psychology"
+    ],
+    "question": "A diary found in your attic perfectly describes every major event of your future life. Would reading the rest of it change anything?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0267",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Sociology"
+    ],
+    "question": "Everyone you know suddenly forgets who you are, yet all records of your existence remain. What, exactly, have you lost?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0268",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Neuroscience"
+    ],
+    "question": "You are offered a life with constant happiness, but every achievement inside it is artificially generated. Would you accept?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0269",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Psychology"
+    ],
+    "question": "A stranger claims to remember events from your childhood more accurately than you do. Which version should you trust?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0270",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Psychology"
+    ],
+    "question": "You save someone's life, but they spend the rest of their years unhappy because of it. Was saving them still the right thing to do?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0271",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Neuroscience"
+    ],
+    "question": "You find out that your personality was largely shaped by random events you barely remember. How much of you was ever chosen?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0272",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Identity"
+    ],
+    "question": "Every night, your consciousness is transferred into a new body while you sleep. No one tells you when the transfers begin. How would you know?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0273",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Sociology",
+      "Linguistics"
+    ],
+    "question": "A village follows a tradition nobody understands anymore, yet it continues to bring people together. Should they preserve it?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0274",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Sociology",
+      "Psychology"
+    ],
+    "question": "Someone can read every thought in your mind but promises never to reveal them. Have you lost anything?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0275",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Sociology",
+      "Logic"
+    ],
+    "question": "An inventor creates a device that removes all doubt. After using it, nobody questions anything. Is society improved?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0276",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Sociology"
+    ],
+    "question": "You are remembered by future generations for something you never did. Does the mistake matter if it inspires good?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0277",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Time",
+      "Identity"
+    ],
+    "question": "You can relive any single day forever, unaware that you are repeating it. Is that existence complete?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0278",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Linguistics",
+      "Sociology"
+    ],
+    "question": "A child asks a question that no adult can answer. Is ignorance a weakness or a natural part of being human?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0279",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Linguistics",
+      "Sociology"
+    ],
+    "question": "Two groups tell opposing stories about the same historical event, and all evidence has vanished. How should future generations decide what to believe?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0280",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Sociology"
+    ],
+    "question": "The world becomes perfectly fair overnight, but ambition disappears. Would that be progress?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0281",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Sociology"
+    ],
+    "question": "You inherit wealth that was earned through actions you consider wrong. Are you responsible for its history?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0282",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Sociology"
+    ],
+    "question": "A society can eliminate conflict by banning deeply held personal beliefs. Is peace worth that price?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0283",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Psychology"
+    ],
+    "question": "A loved one insists that an experience changed their life even though there is no evidence it ever occurred. Is the experience less real?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0284",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Probability",
+      "Sociology"
+    ],
+    "question": "You discover that what you call luck has influenced every major success in your life. How should you view your accomplishments?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0285",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Psychology",
+      "Ethics"
+    ],
+    "question": "You can instantly understand any person's motives. Would this make you more compassionate or more judgmental?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0286",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Sociology"
+    ],
+    "question": "A society can eliminate grief by removing emotional attachment. Would anything valuable be lost?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0287",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Identity",
+      "Sociology"
+    ],
+    "question": "During a journey, every possession you own is gradually replaced with an identical copy. Which object remains truly yours?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0288",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Logic",
+      "Ethics"
+    ],
+    "question": "You must make a choice without ever learning the outcome. How would you know whether it was the right decision?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0289",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Ethics",
+      "Sociology"
+    ],
+    "question": "A community celebrates a hero who privately believes they did nothing heroic. Whose judgment carries more weight?",
+    "discussion": []
+  },
+  {
+    "id": "liq-0290",
+    "topic": "philosophy",
+    "topic_tags": [
+      "Philosophy",
+      "Neuroscience",
+      "Sociology"
+    ],
+    "question": "One person remembers an event vividly, while another has photographs proving it happened differently. Which account deserves trust?",
     "discussion": []
   }
 ]
